@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap');
+
+/* Writing Games brand styles for Starlight
+ * Teal accent (#03BDA8) matches the main site; Roboto stack matches body type.
+ */
+
+:root {
+	--sl-font: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+	--sl-font-mono: 'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+	--sl-text-base: 1rem; /* 18px body text */
+}
+
+/* Set the root font size so all rem-based sizing scales up.
+ * Starlight never sets a base font-size on html/body, so prose text falls
+ * through to the browser default (16px). 112.5% = 18px. Body content,
+ * lists, table cells, and sidebar nav all inherit from this.
+ */
+html {
+	font-size: 18px;
+}
+
+/* Right-hand table of contents - bump up from Starlight's default xs */
+starlight-toc,
+.right-sidebar {
+	font-size: 1rem;
+}
+
+/* Add Starlight's own "external" icon to external links in the left sidebar.
+ * Starlight doesn't auto-inject one for `link:` sidebar entries, so we mask
+ * in the same SVG it uses for header social icons. Color follows text color
+ * via `background-color: currentColor` + `mask-image`.
+ */
+.sidebar-content a[href^="http://"]::after,
+.sidebar-content a[href^="https://"]::after {
+	content: '';
+	display: inline-block;
+	width: 0.9em;
+	height: 0.9em;
+	margin-inline-start: 0.1em;
+	vertical-align: -0.2em;
+	background-color: currentColor;
+	mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M19.33 10.18a1 1 0 0 1-.77 0 1 1 0 0 1-.62-.93l.01-1.83-8.2 8.2a1 1 0 0 1-1.41-1.42l8.2-8.2H14.7a1 1 0 0 1 0-2h4.25a1 1 0 0 1 1 1v4.25a1 1 0 0 1-.62.93Z'/><path d='M11 4a1 1 0 1 1 0 2H7a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-4a1 1 0 1 1 2 0v4a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3V7a3 3 0 0 1 3-3h4Z'/></svg>");
+	mask-size: contain;
+	mask-repeat: no-repeat;
+	mask-position: center;
+	opacity: 0.7;
+}
+
+/* Header gradient. Matches the main writing-games.org nav. */
+.header {
+	background: rgb(39, 39, 39);
+	background: linear-gradient(90deg, rgba(39, 39, 39, 1) 0%, rgba(44, 52, 107, 1) 100%);
+}
+:root[data-theme='light'] .header {
+	background: #eee3ff;
+	background: linear-gradient(90deg, #eee3ff 0%, #e0fffc 100%);
+}
+
+:root {
+	--sl-color-accent-low: #013732;
+	--sl-color-accent: #03BDA8;
+	--sl-color-accent-high: #82FFF1;
+
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #eef2f1;
+	--sl-color-gray-2: #c2cbc9;
+	--sl-color-gray-3: #8b9794;
+	--sl-color-gray-4: #565f5d;
+	--sl-color-gray-5: #353a39;
+	--sl-color-gray-6: #272727;
+	--sl-color-black: #1a1a1a;
+}
+
+:root[data-theme='light'] {
+	--sl-color-accent-low: #b8efe7;
+	--sl-color-accent: #048172;
+	--sl-color-accent-high: #013732;
+
+	--sl-color-white: #272727;
+	--sl-color-gray-1: #353a39;
+	--sl-color-gray-2: #565f5d;
+	--sl-color-gray-3: #8b9794;
+	--sl-color-gray-4: #c2cbc9;
+	--sl-color-gray-5: #eef2f1;
+	--sl-color-gray-6: #f6f8f7;
+	--sl-color-gray-7: #ffffff;
+	--sl-color-black: #ffffff;
+}
+
+/* In src/styles/custom.css */
+.sl-badge[data-variant='default'] {
+	background-color: #E1F16B !important;
+	border-color: #5d681d !important;
+	color: #272727 !important;
+}
