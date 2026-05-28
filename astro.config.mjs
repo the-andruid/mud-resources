@@ -28,9 +28,9 @@ export default defineConfig({
 				{ icon: 'mastodon', label: 'Mastodon', href: 'https://mastodon.gamedev.place/@andruid' },
 				{ icon: 'rss', label: 'RSS', href: 'https://writing-games.org/feed/' },
 			],
-			// editLink: {
-			// 	baseUrl: 'https://github.com/the-andruid/mud-resources/edit/main/',
-			// },
+			editLink: {
+			 	baseUrl: 'https://github.com/the-andruid/mud-resources/edit/main/',
+			},
 			lastUpdated: true,
 			head: [
 				{
