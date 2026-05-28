@@ -17,7 +17,7 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 - **[Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
 - **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games.
 
-Additions and corrections welcome: use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form or submit an issue or PR on [GitHub](https://github.com/the-andruid/mud-resources/issues).
+Additions and corrections welcome! Use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form or submit an issue or PR on [GitHub](https://github.com/the-andruid/mud-resources/issues).
 
 For interviews, essays, and more, head back to [Writing Games](https://writing-games.org/).
 

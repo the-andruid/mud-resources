@@ -15,7 +15,7 @@ New to multi-user (MU*) text games? These primers will help you get you started:
 - [Immersive Roleplay 101](https://writing-games.org/immersive-roleplaying-guide/) - Level up your roleplay with some pro tips
 - [MUSH 101 - An Introduction to MUSHing](https://aresmush.com/mush-101) - Learn how to write collaboratively
 
-## Ask questions
+## Community hubs
 
 Links to parts of the community where you can join in discussions and ask for help:
 
