@@ -3,9 +3,15 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 import starlightLlmsTxt from 'starlight-llms-txt';
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
 	site: 'https://resources.writing-games.org',
+	markdown: {
+		rehypePlugins: [
+			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
+		],
+	},
 	integrations: [
 		sitemap(),
 		starlight({
