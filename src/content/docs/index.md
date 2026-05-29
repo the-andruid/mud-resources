@@ -21,7 +21,7 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 
 ## How to contribute
 
-Additions and corrections welcome! Use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form or submit an issue or PR on [GitHub](https://github.com/the-andruid/mud-resources/issues).
+Additions and corrections from the community are welcome! Feel free to use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form on Writing Games, or if it's easier, submit an issue or PR on [GitHub](https://github.com/the-andruid/mud-resources/issues).
 
 ***
 
