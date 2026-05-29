@@ -5,6 +5,8 @@ prev: false
 next:
   link: /playing/guides/
   label: Getting Started
+tableOfContents:
+  maxHeadingLevel: 2
 ---
 
 Resources for playing and creating text-based games, including multi-user (MU*) codebases, clients, guides, and references for players and developers alike.
