@@ -8,6 +8,7 @@
 	--sl-font: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 	--sl-font-mono: 'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
 	--sl-text-base: 1rem; /* 18px body text */
+	--sl-text-h3: 1.25rem; /* down from Starlight's default 1.5rem */
 }
 
 /* Set the root font size so all rem-based sizing scales up.
