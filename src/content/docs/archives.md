@@ -5,6 +5,7 @@ description: Classic books, magazines, and developer writings from the history o
 
 Links to various writings from the '80s, '90s, and early 2000s, as well as more recent resources that have since been archived.
 
+- [50 Years of Text Games](https://if50.textories.com/) by Aaron A. Reed - Web series turned book covering one text game per year from 1971-2020. Not MUD-specific, but covers them as part of the broader history
 - [An Introduction to MUD (1985)](https://www.mocagh.org/miscgame/micromud-book.pdf) by Duncan Howard - PDF hosted on Museum of Computer Adventure Game History
 - [Bartle's MUD Writings Archive](https://mud.co.uk/richard/oarchive.htm) - Collection of academic and popular articles
 - [Downloadable ftp.game.org Archive](https://archive.org/details/ftp.game.org) - Collection of MUD files and software submitted by internet users in the late 1980s
