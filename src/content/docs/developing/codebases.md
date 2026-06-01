@@ -23,6 +23,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [DikuMUD](https://dikumud.com/) | C | [GitHub](https://github.com/Seifert69/DikuMUD) |
 | [DikuMUD3](https://wiki.dikumud.com/wiki/DikuMUD) | C++ | [GitHub](https://github.com/Seifert69/DikuMUD3) |
 | [DGD](https://bartle.mudinstitute.org/codebases/codebase/19) | C | Dworkin's Game Driver, in-game scripting in LPC |
+| [DjangoMOO](https://gitlab.com/bubblehouse/django-moo) | Python | "LambdaMOO on Django"; sandboxed in-world Python verbs; [Docs](https://django-moo.readthedocs.io/), [GitHub mirror](https://github.com/bubblehouse/django-moo) |
 | [EnvyMUD](https://bartle.mudinstitute.org/codebases/codebase/22) | C | |
 | [Evennia](https://www.evennia.com/) | Python | [GitHub](https://github.com/evennia/evennia), example: [Mystavaria](https://writing-games.org/mystavaria-mud/) |
 | [ExVenture](https://exventure.readthedocs.io/en/latest/) | Elixir | [GitHub](https://github.com/oestrich/ex_venture) |
@@ -39,6 +40,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [MUD1](https://en.wikipedia.org/wiki/MUD1) | BCPL | [GitHub](https://github.com/PDP-10/MUD1), original by Bartle/Trubshaw, later ported to C++ by Viktor Toth in 2000 |
 | [MudOS](https://bartle.mudinstitute.org/codebases/codebase/15) | C | Driver in C, in-game scripting in LPC |
 | [MudProto](https://github.com/WilliamSmithEdward/mudproto) | Python | |
+| [MuFoundry](https://github.com/mufoundry) | Python | Modern SDK for MU* servers; async, HTTP/OpenAPI API, plugin-based. Core engine is [muforge](https://github.com/mufoundry/muforge) |
 | [NakedMud](https://launchpad.net/nakedmud) | C, Python | |
 | [NakedMud 4](https://github.com/NakedMud/nakedmud) | C, Python | |
 | [NekkidMud](https://github.com/scandum/nekkidmud) | C, HTML | |
