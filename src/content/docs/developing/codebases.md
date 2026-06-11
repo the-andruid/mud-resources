@@ -14,6 +14,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [AFKMud](https://github.com/Arthmoor/AFKMud) | C++ | Smaug derivative |
 | [AresMUSH](https://www.aresmush.com/) | Ruby | [GitHub](https://github.com/AresMUSH), examples: [Concordia](https://writing-games.org/concordia-mu/), [Excelsior](https://writing-games.org/excelsior-marvel-superhero-mu/), [Shattered](https://writing-games.org/shattered-mu/) |
 | Atheriz | Python | [GitHub](https://github.com/electroglyph/atheriz), Evennia-inspired |
+| [AwakeMUD](https://github.com/luciensadi/awakemud) | C++ | Shadowrun-themed, CircleMUD/DikuMUD derivative |
 | [BasedMUD](https://github.com/scandum/basedmud) | C | |
 | [BeastMUD](https://github.com/lionsguard/beastmud) | C# | |
 | [CircleMUD](https://www.circlemud.org/) | C | [Unofficial GitHub](https://github.com/Yuffster/CircleMUD) |

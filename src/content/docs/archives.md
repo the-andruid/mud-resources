@@ -13,6 +13,7 @@ Links to various writings from the '80s, '90s, and early 2000s, as well as more 
 - [Grim Wheel's Imaginary Realities Archive](https://www.grimwheel.com/imaginary/) - Additional resources and context about Imaginary Realities e-magazine
 - [MUD Institute](https://bartle.mudinstitute.org/) - Academically inclined repository of preserved codebases and curated articles
 - [MUD Game Programming (2003)](https://annas-archive.gl/md5/09f0bc00d1bcbe98ca649eb78362d03d) by Ron Penton - chm file available on Anna's Archive
+- [MUD-Dev mailing list archive](https://mud-dev.zer7.com/) - Threaded archive (1996-2010) of developer discussions on design, programming, and roleplay mechanics
 - [The Sourcery](https://sourcery.dyndns.org/) - Older collection of MUD developer articles
 - Orcs.biz [HTTP only] - Collection of text-based game and resource archives from the co-founders of muds.wikia.com (now muds.fandom.com)
 - [Titans of Text](https://open.spotify.com/show/71D4ZChTthvCdQdelUAc6d) - Podcast interviewing creators and legends from the text-based game community, including Richard Bartle. No longer producing new episodes

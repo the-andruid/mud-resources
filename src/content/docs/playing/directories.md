@@ -33,6 +33,7 @@ Server stats, crawlers, and census data:
 - [Iberia's MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist)
 - [MUDhalla MSSP Crawler](https://mudhalla.net/tintin/protocols/mssp/mudlist.html)
 - [MUDStats](https://mudstats.com/)
+- [MudVault Stats](https://mudvault.org/stats)
 - [Telnet MUD Census](https://muds.modem.xyz/index.html) - [Server list](https://muds.modem.xyz/server_list.html)
 
 ## Retired
