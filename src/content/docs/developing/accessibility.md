@@ -9,6 +9,10 @@ Tools and tips for making multi-user (MU*) games more accessible.
 
 - [Screen Reader Preview Tool](https://writing-games.org/screen-reader-preview/) - Preview how your game's text will sound through a screen reader
 
+## Communities
+
+- [AudioGames.net](https://audiogames.net/) - Forums and news for blind and visually impaired gamers, including a MUD-playing community
+
 ## Lessons from real games
 
 - [Tips from Niamh](https://writing-games.org/accessibility-in-alter-epoch-mu/) (Alter Epoch)

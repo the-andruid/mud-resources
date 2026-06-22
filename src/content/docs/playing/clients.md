@@ -28,7 +28,7 @@ Clients you can use from your browser:
 
 | Client | Notes |
 | --- | --- |
-| [MudForge](https://darkwiz.org/play) | Modern, full-featured web client |
+| [MudForge](https://play.mudvault.org/) | Modern, full-featured web client, read about it in [Asmodeus' interview](https://writing-games.org/mudvault/) |
 | [LociTerm](https://lociterm.com/) | Runs on just about anything, read about it in [RahjIII's interview](https://writing-games.org/lociterm-mud-client/) |
 
 ## Mobile apps

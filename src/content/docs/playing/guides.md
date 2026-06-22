@@ -24,6 +24,7 @@ Links to parts of the community where you can join in discussions and ask for he
 - [r/RP_MUDS subreddit](https://www.reddit.com/r/RP_MUDs/)
 - [MUD Coder's Guild](https://slack.mudcoders.com/) - Slack
 - [Brand MU Day](https://brandmu.day/) - MUSH/RP-focused forums
+- [AudioGames.net](https://audiogames.net/) - Forums and news for blind and visually impaired gamers, including a MUD-playing community
 
 ## Glossary
 

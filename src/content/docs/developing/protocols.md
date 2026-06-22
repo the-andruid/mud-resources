@@ -18,6 +18,7 @@ Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 
 Miscellaneous tools useful for MU* development:
 
+- [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [ttyscan](https://github.com/jquast/ttyscan) - Queries a terminal emulator for its type, size, and capabilities via XTGETTCAP
 
 ## References
