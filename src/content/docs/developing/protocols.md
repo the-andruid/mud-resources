@@ -12,6 +12,7 @@ Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 - [Last Outpost protocol archive](https://www.last-outpost.com/LO/protocols/) - Resource for MUD devs implementing protocols
 - [Mudlet supported protocols](https://wiki.mudlet.org/w/Manual:Supported_Protocols) - Mudlet's documentation for the protocols it implements
 - [MUDhalla protocol documentation](https://tintin.mudhalla.net/protocols/gmcp/) - Info on GMCP, MSSP, and other protocols
+- [MXP specification](https://www.zuggsoft.com/zmud/mxp.htm) - The original MUD eXtension Protocol (MXP) spec from Zugg Software; public domain
 - [Mudstandards.org](https://mudstandards.org/) - Collection of MUD protocols and documentation for coders
 
 ## Tools
