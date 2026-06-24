@@ -74,6 +74,7 @@ export default defineConfig({
 						{ label: 'Open Source Projects', slug: 'developing/open-source' },
 						{ label: 'Hosting Services', slug: 'developing/hosting' },
 						{ label: 'Accessibility', slug: 'developing/accessibility' },
+						{ label: 'Discovered', slug: 'developing/discovered' },
 					],
 				},
 				{
