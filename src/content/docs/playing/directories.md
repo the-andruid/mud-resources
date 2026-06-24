@@ -23,18 +23,35 @@ Find a game to play:
 | [Best MUDs](https://bestmuds.com/) | Formerly MudListings; large directory of ~700 games with reviews and rankings |
 | [MUDVault](https://mudvault.org/) | Listings, ratings, code archives, dev tools, web client; read the [interview with Asmodeus](https://writing-games.org/mudvault/) |
 | [MudVerse](https://www.mudverse.com/) | Free directory and rankings for MUDs, MOOs, and MUSHes, with reviews and voting |
-| [MUSHCode.com MUSH/MUX List](https://www.mushcode.com/MushList) | MUSH/MUX games across many themes (fantasy, sci-fi, World of Darkness) |
+| [MUSHCode.com List](https://www.mushcode.com/MushList) | MUSH/MUX games across many themes (fantasy, sci-fi, World of Darkness) |
 | [The MUD Connector](https://www.mudconnect.com/) | Classic directory (since 1995), ~700 MUDs with reviews and a starter guide |
 
 ## Stats
 
-Server stats, crawlers, and census data:
+Server stats, crawlers, and census data. Each tracker uses a different method (MSSP queries vs. telnet scans), so their player and game counts may differ:
 
-- [Iberia's MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist)
-- [MUDhalla MSSP Crawler](https://mudhalla.net/tintin/protocols/mssp/mudlist.html)
-- [MUDStats](https://mudstats.com/)
-- [MudVault Stats](https://mudvault.org/stats)
-- [Telnet MUD Census](https://muds.modem.xyz/index.html) - [Server list](https://muds.modem.xyz/server_list.html)
+| Source | Notes |
+| --- | --- |
+| [Iberia's MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist) | Broad MSSP crawl; created to fill the gap when MUDStats went offline for a few months, so it covers essentially the same ground |
+| [MUDhalla MSSP Crawler](https://mudhalla.net/tintin/protocols/mssp/mudlist.html) | MSSP crawler from the TinTin++/MUDhalla project |
+| [MUDStats](https://mudstats.com/) | Broad MSSP crawl tracking live and historical player counts across MUD/MUSH/MOO and more |
+| [MudVault Stats](https://mudvault.org/stats) | Covers MudVault's curated subset (~90 MUDs), so its totals run lower than the broad crawlers |
+| [Telnet MUD Census](https://muds.modem.xyz/index.html) | Scans the internet for reachable telnet MUD servers instead of reading MSSP; also a [server list](https://muds.modem.xyz/server_list.html) |
+
+## International
+
+Major listing sites, community hubs, and games presented in languages other than English:
+
+| Language | Resource | Type | Notes |
+| --- | --- | --- | --- |
+| Chinese | [PKUXKX (北大侠客行)](https://www.pkuxkx.com/) | Game | The most prominent Chinese MUD, running for around 30 years; [web client](https://mud.pkuxkx.net/) |
+| Taiwanese | [Revival World Taiwan MUD list](https://www.revivalworld.org/mud/taiwanmudlist) | Directory | Live list of Taiwanese 泥巴 (MUD) games with status and player counts |
+| German | [Deutsche MUD-Liste (DML)](https://midgardmud.de/deutsche_mudliste.php) | Directory | Current directory of German-language MUDs, maintained by Midgard MUD |
+| German | [UNItopia](https://www.unitopia.de/) | Game | Among the oldest German MUDs; large LPMud |
+| German | [MorgenGrauen](http://mg.mud.de/) | Game | Large LDMud-based world |
+| Russian | [Adamant: World of the Rings](https://a-mud.ru/) | Game | Tolkien-themed (Middle-earth) MUD |
+| Russian | [Arda](http://arda.pp.ru/) | Game | Russian-language MUD |
+| Russian | [Sphere of Worlds (Сфера Миров)](https://sowmud.ru/) | Game | Russian-language MUD |
 
 ## Retired
 
