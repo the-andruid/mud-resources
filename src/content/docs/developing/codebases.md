@@ -29,6 +29,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [Evennia](https://www.evennia.com/) | Python | [GitHub](https://github.com/evennia/evennia), example: [Mystavaria](https://writing-games.org/mystavaria-mud/) |
 | [ExVenture](https://exventure.readthedocs.io/en/latest/) | Elixir | [GitHub](https://github.com/oestrich/ex_venture) |
 | [FluffOS](https://www.fluffos.info/) | C++ | [GitHub](https://github.com/fluffos/fluffos) |
+| [Fuzzball](https://www.fuzzball.org/) | C | TinyMUCK-derived MUCK server with in-world MUF/MPI scripting; [GitHub](https://github.com/fuzzball-muck/fuzzball), [MINK manual](https://fuzzball-muck.github.io/muckman/) |
 | [GodWars](https://bartle.mudinstitute.org/codebases/codebase/26) | C | |
 | [GoMud](https://github.com/GoMudEngine/GoMud) | [Go](https://go.dev/) | [Read the interview with Volte6](https://writing-games.org/gomud-text-game-engine/) |
 | [Graphic MUD](https://taranion.bitbucket.io/graphicmud/) | Java | |
@@ -63,11 +64,19 @@ Various game engines, the primary languages they were written in, and links to r
 | [Stunt](https://stunt.io/) | C, C++ | [GitHub](https://github.com/toddsundsted/stunt) |
 | [tbaMUD](https://www.tbamud.com/) | C | [GitHub](https://github.com/tbamud/tbamud) |
 | [TinyMUD](https://archive.org/details/tinymud-1.5.5) | C | |
+| [TinyMUSH](https://github.com/TinyMUSH/TinyMUSH) | C | TinyMUSH 3.x, merging the TinyMUSH 2.2 and TinyMUX 1.6 lines. [SourceForge downloads](https://tinymush.sourceforge.net/) |
 | [TinyMUX](https://www.tinymux.org/) | C++ | [GitHub](https://github.com/brazilofmux/tinymux) |
 | [ToastStunt](https://github.com/lisdude/toaststunt) | C++ | |
 | [UberMUD](https://bartle.mudinstitute.org/codebases/codebase/ubermud) | C | |
 | [UnterMUD](https://bartle.mudinstitute.org/codebases/codebase/untermud) | C | |
 | [UriMUD](https://bartle.mudinstitute.org/codebases/codebase/14) | C | |
+
+## LPC mudlibs
+
+Game libraries that run on top of an LPMud driver (such as [FluffOS](https://www.fluffos.info/) or [LDMud](https://www.ldmud.eu/)) - they supply the world, commands, and game logic the driver executes:
+
+- [Dead Souls](http://dead-souls.net/) - Beginner-friendly, Nightmare-derived mudlib bundled with FluffOS; [GitHub](https://github.com/quixadhal/deadsouls)
+- [Lima](https://docs.limamudlib.dev/) - Modular LPC mudlib that runs on current FluffOS
 
 ## Compiled binaries
 
