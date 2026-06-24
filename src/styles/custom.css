@@ -9,18 +9,15 @@
 	--sl-font-mono: 'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
 	--sl-text-base: 1rem; /* 18px body text */
 	--sl-text-h3: 1.25rem; /* down from Starlight's default 1.5rem */
-	/* Narrower left sidebar. Starlight's default is 18.75rem, which at our
-	 * 18px root works out to ~337px; 15rem (~270px) is tighter. Adjust to taste. */
-	--sl-sidebar-width: 15rem;
+	/* Narrower left sidebar. Starlight's default is 18.75rem. */
+	--sl-sidebar-width: 16rem;
 }
 
 /* Set the root font size so all rem-based sizing scales up.
  * Starlight never sets a base font-size on html/body, so prose text falls
- * through to the browser default (16px). 112.5% = 18px. Body content,
- * lists, table cells, and sidebar nav all inherit from this.
- */
+ * through to the browser default (16px). */
 html {
-	font-size: 18px;
+	font-size: 17px;
 }
 
 /* Right-hand table of contents - bump up from Starlight's default xs */
