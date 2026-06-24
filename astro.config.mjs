@@ -69,12 +69,12 @@ export default defineConfig({
 				{
 					label: 'Developing',
 					items: [
+						{ label: 'Accessibility', slug: 'developing/accessibility' },
 						{ label: 'Codebases', slug: 'developing/codebases' },
 						{ label: 'Protocols', slug: 'developing/protocols' },
 						{ label: 'Open Source Projects', slug: 'developing/open-source' },
+						{ label: 'Newly Discovered', slug: 'developing/discovered' },
 						{ label: 'Hosting Services', slug: 'developing/hosting' },
-						{ label: 'Accessibility', slug: 'developing/accessibility' },
-						{ label: 'Discovered', slug: 'developing/discovered' },
 					],
 				},
 				{
