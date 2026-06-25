@@ -14,7 +14,7 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 ## What's here
 
 - **Playing**: [Getting Started](/playing/guides/), [Finding a Game](/playing/directories/), [MU* Clients](/playing/clients/)
-- **Developing**: [Codebases](/developing/codebases/), [Protocols](/developing/protocols/), [Open Source Projects](/developing/open-source/), [Hosting Services](/developing/hosting/), [Accessibility](/developing/accessibility/)
+- **Developing**: [Codebases](/developing/codebases/), [Protocols](/developing/protocols/), [Open Source Projects](/developing/open-source/), [Newly Discovered](/developing/discovered/), [Hosting Services](/developing/hosting/), [Accessibility](/developing/accessibility/)
 - **Building & Marketing**: [World Building](/building/craft/), [Marketing & Retention](/building/marketing/), [Recommended Reading](/building/reading/)
 - **[Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
 - **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games.
@@ -38,7 +38,7 @@ It's maintained by [Andruid](https://writing-games.org/author/andruid/) as part 
 
 ### How is the site organized?
 
-Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (codebases, protocols, hosting, accessibility), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
+Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (codebases, protocols, open-source projects, newly discovered finds, hosting, accessibility), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
 
 ### How do I suggest a resource or report a problem?
 
