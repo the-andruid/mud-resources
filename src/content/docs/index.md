@@ -28,40 +28,26 @@ Additions and corrections from the community are welcome! Feel free to use the [
 
 ## Frequently Asked Questions
 
-### What is a MUD, MUSH, or MOO?
+### What is this site?
 
-A MUD (Multi-User Dungeon), MUSH (Multi-User Shared Hallucination), and MOO (MUD, Object-Oriented) are types of text-based multiplayer online games. MUDs typically focus on combat and exploration, while MUSHes and MOOs emphasize collaborative storytelling and roleplay. Each has its own community and gameplay style. For more background, check out the [Getting Started](/playing/guides/) page.
+A free collection of resources for playing and creating text-based games. It began with multi-user dungeons (MUDs) and has grown to cover related text-game traditions too, including [Interactive Fiction](/interactive-fiction/) and [BBS Door Games](/bbs-doors/).
 
-### Where can I find a MUD to play?
+### Who maintains it?
 
-The [Finding a Game](/playing/directories/) page lists directories like AresCentral, Grapevine, MUDStats, and MUDVault, plus server stats and crawlers. MUDVault and Grapevine are solid starting points for beginners.
+It's maintained by [Andruid](https://writing-games.org/author/andruid/) as part of [Writing Games](https://writing-games.org/), with additions and corrections from the community.
 
-### What's the best MUD client for beginners?
+### How is the site organized?
 
-It depends on your platform - the [MU* Clients](/playing/clients/) page lists options for every OS, with notes on accessibility, configurability, and what each is known for. Mudlet is a popular cross-platform option. Beginners using Windows may prefer MUSHclient to start.
+Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (codebases, protocols, hosting, accessibility), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
 
-### Can I play MUDs on my phone?
+### How do I suggest a resource or report a problem?
 
-Yes. The [MU* Clients](/playing/clients/) page has a dedicated Mobile apps section (Fado for Android, MUDBasher and MUDlark for iOS, and others). You can also use a browser-based client like LociTerm or MudForge from your phone's browser.
+Use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form on Writing Games, or open an issue on [GitHub](https://github.com/the-andruid/mud-resources/issues). To fix a specific page directly, the "Edit page" link at the bottom of each page opens it for editing on GitHub and submits your change as a pull request.
 
-### What are some resources for learning to code or build MUDs?
+### Is everything here current?
 
-The [Codebases](/developing/codebases/) page lists game engines along with their primary coding languages. For protocols and technical specs, see [Protocols](/developing/protocols/). For learning to build worlds rather than write engine code, see [World Building](/building/craft/).
+This is an evolving, community-maintained list, so links do occasionally break or point somewhere unexpected when a site moves or shuts down. If you spot a dead or incorrect link, please flag it via the form or GitHub.
 
-If you actually want to make a *single-player* text game (not a persistent, multiplayer style game), see [Interactive Fiction](/interactive-fiction/).
+### How does this relate to Writing Games?
 
-### How do I market my MUD to attract players?
-
-The [Marketing & Retention](/building/marketing/) page offers some advice on marketing your game, retaining players, improving help systems, and rewarding players for typo reports.
-
-### What if I need help with accessibility in my game?
-
-[Accessibility](/developing/accessibility/) has its own page, with tools like the Screen Reader Preview Tool and lessons from real games (Alter Epoch, Legends of the Jedi, EmpireMUD).
-
-### Are there free hosting options for my MUD?
-
-Yes - [Vineyard.haus](https://vineyard.haus/) offers free or pay-what-you-can hosting. The [Hosting Services](/developing/hosting/) page also covers paid options and cloud providers people have had success with.
-
-### How do I stay connected with the MUD community?
-
-The [Getting Started](/playing/guides/) page has a "Community hub" section linking to the MUD Community Discord, the r/MUD subreddit, and the Brand MU Day forums, among others.
+This is the resource directory companion to [Writing Games](https://writing-games.org/). Writing Games is the main site; this is where its links and references live.
