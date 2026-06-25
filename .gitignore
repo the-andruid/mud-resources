@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Andruid's specific vscode workspace settings with color-coded title bar so she can tell all her silly MU* projects apart
+settings.json
