@@ -18,6 +18,7 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 - **Building & Marketing**: [World Building](/building/craft/), [Marketing & Retention](/building/marketing/), [Recommended Reading](/building/reading/)
 - **[Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
 - **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games.
+- **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems.
 
 ## How to contribute
 
