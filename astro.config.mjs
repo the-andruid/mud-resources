@@ -87,6 +87,7 @@ export default defineConfig({
 				},
 				{ label: 'Archives', slug: 'archives' },
 				{ label: 'Interactive Fiction', slug: 'interactive-fiction' },
+				{ label: 'BBS Door Games', slug: 'bbs-doors' },
 				{ label: 'Back to Writing Games', link: 'https://writing-games.org/', attrs: { 'aria-label': 'Back to Writing Games (opens in current tab)' } },
 			],
 		}),
