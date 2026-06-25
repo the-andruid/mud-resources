@@ -1,9 +1,13 @@
 ---
 title: Recommended Reading
-description: Articles and books recommended for anyone who designs or builds MU* games.
+description: Articles, research, and books recommended for anyone who plays, designs, or builds MU* games.
 ---
 
-Recommended reading on game design.
+Recommended reading for players and game designers.
+
+## Research & reports
+
+- [2026 State of the Niche Report](https://writing-games.org/2026-state-of-the-niche-report/) by Andruid - A recent survey of 259 people in the MU* hobby, with analysis of their concerns and positives
 
 ## Online articles
 
