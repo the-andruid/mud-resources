@@ -51,9 +51,11 @@ Available on GitHub in various forms (not recommended for beginners):
 | [BlightMUD](https://github.com/Blightmud/Blightmud) | Inspired by [TinyFugue](https://en.wikipedia.org/wiki/TinyFugue). See also [Blightspell](https://github.com/cpu/blightspell), a spellchecker for BlightMUD |
 | [Chrysalis](https://github.com/Cryosphere-MUD/chrysalis) | Browser-based, read about it in [Morwen's interview](https://writing-games.org/cryosphere-satirical-sci-fi-mud/) |
 | [KMuddy](https://github.com/KDE/kmuddy) | |
+| [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
 | [Mudlet](https://github.com/Mudlet/Mudlet) | |
 | [Mudpie](https://github.com/aaron-gh/mudpie-releases/releases) | Android client, apk on GitHub |
 | [MUDWammer](https://github.com/ncmud/Wammer?tab=readme-ov-file) | Mobile, still in development |
+| [Savitar 1.4.0 source](https://github.com/jkoutavas/savitar140) | Original v1.x macOS MUSH client source |
 
 ## Retired
 
