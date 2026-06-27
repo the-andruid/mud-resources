@@ -19,7 +19,9 @@ Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 
 Miscellaneous tools useful for MU* development:
 
+- [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
+- [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
 - [ttyscan](https://github.com/jquast/ttyscan) - Queries a terminal emulator for its type, size, and capabilities via XTGETTCAP
 
 ## References
