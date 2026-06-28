@@ -44,6 +44,10 @@ Resources are grouped by what you're trying to do: **Playing** (getting started,
 
 Use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form on Writing Games, or open an issue on [GitHub](https://github.com/the-andruid/mud-resources/issues). To fix a specific page directly, the "Edit page" link at the bottom of each page opens it for editing on GitHub and submits your change as a pull request.
 
+### I own a listed project. Can I have it removed?
+
+Yes. Everything here points to publicly available sources (public repos, directories, and the like), so nothing private is ever listed, but I'm happy to honor requests. Use the [Submit a Resource](https://writing-games.org/submit-a-resource/) form or open an issue on [GitHub](https://github.com/the-andruid/mud-resources/issues), and I'll take it down.
+
 ### Is everything here current?
 
 This is an evolving, community-maintained list, so links do occasionally break or point somewhere unexpected when a site moves or shuts down. If you spot a dead or incorrect link, please flag it via the form or GitHub.
