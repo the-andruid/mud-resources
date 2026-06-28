@@ -22,6 +22,7 @@ Miscellaneous tools useful for MU* development:
 - [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
+- [mushy-peas](https://github.com/ctoth/mushy-peas) - Python toolkit for reading, writing, inspecting, and round-tripping PennMUSH database files
 - [ttyscan](https://github.com/jquast/ttyscan) - Queries a terminal emulator for its type, size, and capabilities via XTGETTCAP
 
 ## References
