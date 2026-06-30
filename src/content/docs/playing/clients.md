@@ -56,6 +56,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [Mudpie](https://github.com/aaron-gh/mudpie-releases/releases) | Android client, apk on GitHub |
 | [MUDWammer](https://github.com/ncmud/Wammer?tab=readme-ov-file) | Mobile, still in development |
 | [Savitar 1.4.0 source](https://github.com/jkoutavas/savitar140) | Original v1.x macOS MUSH client source |
+| [SharpClient](https://github.com/SharpMUSH/SharpClient) | .NET MAUI Blazor Hybrid client for connecting to MUSH/MUD servers over telnet |
 
 ## Retired
 
