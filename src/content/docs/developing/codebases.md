@@ -77,6 +77,7 @@ Game libraries that run on top of an LPMud driver (such as [FluffOS](https://www
 
 - [Dead Souls](http://dead-souls.net/) - Beginner-friendly, Nightmare-derived mudlib bundled with FluffOS; [GitHub](https://github.com/quixadhal/deadsouls)
 - [Lima](https://docs.limamudlib.dev/) - Modular LPC mudlib that runs on current FluffOS
+- [xyj2006mod](https://github.com/xyjMudAdmin/xyj2006mod) - LPC mudlib for the xyj MUD, ported to run on FluffOS with UTF-8 and GBK encoding support
 
 ## Compiled binaries
 
