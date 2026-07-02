@@ -40,6 +40,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [ModernMUD](https://github.com/Xangis/ModernMUD) | C# | |
 | [mooR](https://timbran.org/moor.html) | Rust | [Codeberg](https://codeberg.org/timbran/moor) |
 | [MUD1](https://en.wikipedia.org/wiki/MUD1) | BCPL | [GitHub](https://github.com/PDP-10/MUD1), original by Bartle/Trubshaw, later ported to C++ by Viktor Toth in 2000 |
+| [Mud98](https://github.com/jsuich/Mud98) | C | ROM 2.4b6 derivative, with updates and improvements |
 | [MudOS](https://bartle.mudinstitute.org/codebases/codebase/15) | C | Driver in C, in-game scripting in LPC |
 | [MudProto](https://github.com/WilliamSmithEdward/mudproto) | Python | |
 | [MuFoundry](https://github.com/mufoundry) | Python | Modern SDK for MU* servers; async, HTTP/OpenAPI API, plugin-based. Core engine is [muforge](https://github.com/mufoundry/muforge) |
