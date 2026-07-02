@@ -22,6 +22,7 @@ Miscellaneous tools useful for MU* development:
 - [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
+- [mudlet-map-editor](https://delwing.github.io/mudlet-map-editor/) - Browser-based visual editor for Mudlet `.dat` map files; load, edit, and export maps with no install
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
 - [mushy-peas](https://github.com/ctoth/mushy-peas) - Python toolkit for reading, writing, inspecting, and round-tripping PennMUSH database files
