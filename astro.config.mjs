@@ -59,7 +59,7 @@ export default defineConfig({
 			sidebar: [
 				{ label: 'Overview', slug: 'index' },
 				{
-					label: 'Playing',
+					label: 'Playing MU*s',
 					items: [
 						{ label: 'Getting Started', slug: 'playing/guides' },
 						{ label: 'Finding a Game', slug: 'playing/directories' },
@@ -67,7 +67,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Developing',
+					label: 'Developing MU*s',
 					items: [
 						{ label: 'Accessibility', slug: 'developing/accessibility' },
 						{ label: 'Codebases', slug: 'developing/codebases' },
@@ -85,7 +85,7 @@ export default defineConfig({
 						{ label: 'Recommended Reading', slug: 'building/reading' },
 					],
 				},
-				{ label: 'Archives', slug: 'archives' },
+				{ label: 'MU* Archives', slug: 'archives' },
 				{ label: 'Interactive Fiction', slug: 'interactive-fiction' },
 				{ label: 'BBS Door Games', slug: 'bbs-doors' },
 				{ label: 'Back to Writing Games', link: 'https://writing-games.org/', attrs: { 'aria-label': 'Back to Writing Games (opens in current tab)' } },
