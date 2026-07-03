@@ -21,6 +21,7 @@ Links to various writings from the '80s, '90s, and early 2000s, as well as more 
 - [Mudding: Social Phenomena in Text-Based Virtual Realities](http://web.archive.org/web/20260329151911/https://www.hayseed.net/MOO/curtis_mudding.article.txt) by Pavel Curtis (1992) - Seminal Xerox PARC paper on the social dynamics of MUDs and MOOs; Wayback Machine copy
 - [MUD Game Programming (2003)](https://annas-archive.gl/md5/09f0bc00d1bcbe98ca649eb78362d03d) by Ron Penton - chm file available on Anna's Archive
 - [MUD-Dev mailing list archive](https://mud-dev.zer7.com/) - Threaded archive (1996-2010) of developer discussions on design, programming, and roleplay mechanics
+- [MUDs @ Lysator](https://www.lysator.liu.se/mud/) - Small 1990s MUD hub (last revised 2006): the classic rec.games.mud FAQ, LPC coding docs, quest-design guides, and the 1994 World MUD Conference archive
 - [Raph Koster's writings](https://www.raphkoster.com/) - Essays on virtual world design, including "The Laws of Online World Design" and the Online World Timeline
 - [Erwin Andreasen's site](https://andreasen.org/) - MERC/ROM code snippets, the MERC Programming FAQ, the Bartle Test of Gamer Psychology, and the 2000 "16K MUD competition" results
 - [The Sourcery](https://sourcery.dyndns.org/) - Older collection of MUD developer articles
