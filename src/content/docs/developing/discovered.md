@@ -9,6 +9,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
+| [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni). Brand new, early-stage. |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
 | [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
 | [wren-creator/mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |

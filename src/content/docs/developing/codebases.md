@@ -35,6 +35,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [Graphic MUD](https://taranion.bitbucket.io/graphicmud/) | Java | |
 | [LambdaMOO](https://lisdude.com/moo/) | C | [GitHub](https://github.com/wrog/lambdamoo). [Programming Guide on GitHub](https://github.com/sevenecks/lambda-moo-programming) |
 | [LDMud](https://www.ldmud.eu/) | C | [GitHub](https://github.com/ldmud/ldmud) |
+| [lore](https://github.com/i-am-tanni/lore) | Gleam | MUD server written in Gleam |
 | [Magma](https://github.com/Xangis/magma) | C, C++ | |
 | [Merc](https://bartle.mudinstitute.org/codebases/codebase/mercmud) | C | [Merc 2.1 GitHub](https://github.com/alexmchale/merc-mud) |
 | [ModernMUD](https://github.com/Xangis/ModernMUD) | C# | |
