@@ -13,10 +13,10 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 
 ## What's here
 
-- **Playing**: [Getting Started](/playing/guides/), [Finding a Game](/playing/directories/), [MU* Clients](/playing/clients/)
-- **Developing**: [Accessibility](/developing/accessibility/), [Codebases](/developing/codebases/), [Protocols](/developing/protocols/), [Open Source Projects](/developing/open-source/), [Newly Discovered](/developing/discovered/), [Hosting Services](/developing/hosting/)
+- **Playing MU*s**: [Getting Started](/playing/guides/), [Finding a Game](/playing/directories/), [MU* Clients](/playing/clients/)
+- **Developing MU*s**: [Accessibility](/developing/accessibility/), [Codebases](/developing/codebases/), [Protocols & Tools](/developing/protocols/), [Open Source Projects](/developing/open-source/), [Newly Discovered](/developing/discovered/), [Hosting Services](/developing/hosting/)
 - **Building & Marketing**: [World Building](/building/craft/), [Marketing & Retention](/building/marketing/), [Recommended Reading](/building/reading/)
-- **[Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
+- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
 - **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games.
 - **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems.
 
