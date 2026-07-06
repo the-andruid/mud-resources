@@ -48,6 +48,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | Client | Notes |
 | --- | --- |
 | [BeipMU](https://beipdev.github.io/BeipMU/) | |
+| [birdie](https://github.com/OrangeTide/birdie) | MUD client with an elaborate custom GUI, written in C |
 | [BlightMUD](https://github.com/Blightmud/Blightmud) | Inspired by [TinyFugue](https://en.wikipedia.org/wiki/TinyFugue). See also [Blightspell](https://github.com/cpu/blightspell), a spellchecker for BlightMUD |
 | [Chrysalis](https://github.com/Cryosphere-MUD/chrysalis) | Browser-based, read about it in [Morwen's interview](https://writing-games.org/cryosphere-satirical-sci-fi-mud/) |
 | [KMuddy](https://github.com/KDE/kmuddy) | |

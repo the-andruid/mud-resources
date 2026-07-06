@@ -9,6 +9,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
+| [Arthmoor/I3-Router](https://github.com/Arthmoor/I3-Router) | Codebase | 2026-07 | A standalone Intermud-3 router implementation that lets MUDs connect without requiring LPMud libraries or drivers. |
 | [butterflyskies/catena](https://github.com/butterflyskies/catena) | Codebase | 2026-07 | A MUD engine written in Rust. |
 | [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni). Brand new, early-stage. |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
