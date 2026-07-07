@@ -24,7 +24,8 @@ Links to various writings from the '80s, '90s, and early 2000s, as well as more 
 - [MUDs @ Lysator](https://www.lysator.liu.se/mud/) - Small 1990s MUD hub (last revised 2006): the classic rec.games.mud FAQ, LPC coding docs, quest-design guides, and the 1994 World MUD Conference archive
 - [Raph Koster's writings](https://www.raphkoster.com/) - Essays on virtual world design, including "The Laws of Online World Design" and the Online World Timeline
 - [Erwin Andreasen's site](https://andreasen.org/) - MERC/ROM code snippets, the MERC Programming FAQ, the Bartle Test of Gamer Psychology, and the 2000 "16K MUD competition" results
+- [Secrets of the MUD Wizards](https://annas-archive.gl/md5/3c4f3746d11fcf820bbd0ce628193b25) by Andrew Busey & Joseph Poirier (1995) - Early mass-market Sams.net guide to playing and programming MUDs, MOOs, and MUCKs; scanned copy on Anna's Archive
 - [The Sourcery](https://sourcery.dyndns.org/) - Older collection of MUD developer articles
 - [yduJ's MOO Programmer's Tutorial](https://hayseed.net/MOO/yduj-duck-tutorial.text) - Hands-on introduction to MOO programming taught through the classic wind-up duck example
 - Orcs.biz [HTTP only] - Collection of text-based game and resource archives from the co-founders of muds.wikia.com (now muds.fandom.com)
-- [Titans of Text](https://open.spotify.com/show/71D4ZChTthvCdQdelUAc6d) - Podcast interviewing creators and legends from the text-based game community, including Richard Bartle. No longer producing new episodes
+- [Titans of Text](https://open.spotify.com/show/71D4ZChTthvCdQdelUAc6d) - Podcast interviewing creators and legends from the text-based game community, including Richard Bartle; no longer producing new episodes
