@@ -9,9 +9,9 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
-| [Arthmoor/I3-Router](https://github.com/Arthmoor/I3-Router) | Codebase | 2026-07 | A standalone Intermud-3 router implementation that lets MUDs connect without requiring LPMud libraries or drivers. |
-| [butterflyskies/catena](https://github.com/butterflyskies/catena) | Codebase | 2026-07 | A MUD engine written in Rust. |
-| [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni). Brand new, early-stage. |
+| [Arthmoor/I3-Router](https://github.com/Arthmoor/I3-Router) | Codebase | 2026-07 | A standalone Intermud-3 router implementation that lets MUDs connect without requiring LPMud libraries or drivers |
+| [butterflyskies/catena](https://github.com/butterflyskies/catena) | Codebase | 2026-07 | A MUD engine written in Rust |
+| [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
 | [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
 | [wren-creator/mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
@@ -20,8 +20,9 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
-| [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is. |
-| [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP. |
+| [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
+| [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
+| [skyphusion-labs/hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Codebase | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
 
 ## Platforms
 
@@ -29,4 +30,4 @@ Hosted projects (not source repos), so they aren't tracked the same way as the w
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
-| [MUDhub](https://mudhub.club/) | Platform | 2026-06 | Evennia Minigame Platform: one account for browser- or telnet-playable minigames, plus a developer SDK. Early-stage; by teejaytanks |
+| [MUDhub](https://mudhub.club/) | Platform | 2026-06 | Evennia Minigame Platform: one account for browser- or telnet-playable minigames, plus a developer SDK; early-stage; by teejaytanks |

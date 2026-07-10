@@ -16,6 +16,8 @@ Links to various writings from the '80s, '90s, and early 2000s, as well as more 
 - [Downloadable ftp.game.org Archive](https://archive.org/details/ftp.game.org) - Collection of MUD files and software submitted by internet users in the late 1980s
 - [Imaginary Realities Archive](http://tharsis-gate.org/articles/imaginary.html) - Tharsis Gate [HTTP only] - Thought leadership about MUDs, published between 1998-2001
 - [Grim Wheel's Imaginary Realities Archive](https://www.grimwheel.com/imaginary/) - Additional resources and context about Imaginary Realities e-magazine
+- [Interactive Internet: The Insider's Guide to MUDs, MOOs, and IRC](https://annas-archive.gl/md5/642669750e4ae07901e9ae0b38d5dfe8) by William J. Shefski (1995) - Guide covering MUDs, MOOs, and IRC; scanned copy on Anna's Archive
+- [Internet Virtual Worlds Quick Tour: MUDs, MOOs & MUSHes](https://annas-archive.gl/md5/0301f6bbeb7a987a5c6e92c8fa5bb918) by Sean Carton (1995) - Introductory guide covering MUDs, MOOs, and MUSHes; scanned copy on Anna's Archive
 - [MUD Institute](https://bartle.mudinstitute.org/) - Academically inclined repository of preserved codebases and curated articles
 - [The MUDdex](http://www.linnaean.org/~lpb/muddex/) - Lauren P. Burka's archive of early MUD history, including the [MUDline](http://www.linnaean.org/~lpb/muddex/mudline.html) timeline and a TinyMUD history essay [HTTP only]
 - [Mudding: Social Phenomena in Text-Based Virtual Realities](http://web.archive.org/web/20260329151911/https://www.hayseed.net/MOO/curtis_mudding.article.txt) by Pavel Curtis (1992) - Seminal Xerox PARC paper on the social dynamics of MUDs and MOOs; Wayback Machine copy
@@ -28,4 +30,5 @@ Links to various writings from the '80s, '90s, and early 2000s, as well as more 
 - [The Sourcery](https://sourcery.dyndns.org/) - Older collection of MUD developer articles
 - [yduJ's MOO Programmer's Tutorial](https://hayseed.net/MOO/yduj-duck-tutorial.text) - Hands-on introduction to MOO programming taught through the classic wind-up duck example
 - Orcs.biz [HTTP only] - Collection of text-based game and resource archives from the co-founders of muds.wikia.com (now muds.fandom.com)
+- [Playing MUDs on the Internet](https://annas-archive.gl/md5/6c16c27cd0e03a64c396ea003b033f9f) by Rawn Shah and Jim Romine (1995) - Guide to playing MUDs on the internet; scanned copy on Anna's Archive
 - [Titans of Text](https://open.spotify.com/show/71D4ZChTthvCdQdelUAc6d) - Podcast interviewing creators and legends from the text-based game community, including Richard Bartle; no longer producing new episodes
