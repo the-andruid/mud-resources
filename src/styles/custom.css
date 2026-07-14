@@ -11,6 +11,8 @@
 	--sl-text-h3: 1.25rem; /* down from Starlight's default 1.5rem */
 	/* Narrower left sidebar. Starlight's default is 18.75rem. */
 	--sl-sidebar-width: 16rem;
+	/* Slightly wider article column. Starlight's default is 67.5rem. */
+	--sl-content-width: 72rem;
 }
 
 /* Set the root font size so all rem-based sizing scales up.
@@ -24,7 +26,6 @@ html {
 starlight-toc,
 .right-sidebar {
 	font-size: 1rem;
-	width: 16rem;
 }
 
 /* Add Starlight's own "external" icon to external links in the left sidebar.
