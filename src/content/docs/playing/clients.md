@@ -40,6 +40,7 @@ Clients that can be used on your smartphone:
 | [Fado](https://iberia.jdai.pt/fado/fado.html) | [Google Play](https://play.google.com/store/apps/details?id=pt.jdai.fado&pli=1) |
 | [MUDBasher](https://mud.kingfrat.com/) | [Apple Store](https://apps.apple.com/us/app/mudbasher/id6755510450) |
 | [MUDlark](https://testflight.apple.com/join/w8BUhwcQ) | iOS, currently in open beta |
+| [MUDMonster](https://apps.apple.com/us/app/mudmonster-mud-client/id6762086513) | iOS |
 
 ## On GitHub
 
