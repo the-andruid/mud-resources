@@ -12,7 +12,7 @@
 	/* Narrower left sidebar. Starlight's default is 18.75rem. */
 	--sl-sidebar-width: 16rem;
 	/* Slightly wider article column. Starlight's default is 67.5rem. */
-	--sl-content-width: 70rem;
+	--sl-content-width: 69rem;
 }
 
 /* Set the root font size so all rem-based sizing scales up.
@@ -26,6 +26,14 @@ html {
 starlight-toc,
 .right-sidebar {
 	font-size: 1rem;
+}
+
+/* Keep the short "Found" date column (3rd of 4) from wrapping mid-date, e.g.
+ * "2026-07" breaking after the hyphen. Scoped to 4-column tables (the
+ * Discovered watchlist) via :has(), so the 2- and 3-column tables elsewhere,
+ * whose 3rd column is prose, are untouched. */
+.sl-markdown-content table:has(th:nth-child(4)) :is(th, td):nth-child(3) {
+	white-space: nowrap;
 }
 
 /* Add Starlight's own "external" icon to external links in the left sidebar.
