@@ -12,7 +12,7 @@
 	/* Narrower left sidebar. Starlight's default is 18.75rem. */
 	--sl-sidebar-width: 16rem;
 	/* Slightly wider article column. Starlight's default is 67.5rem. */
-	--sl-content-width: 68rem;
+	--sl-content-width: 66rem;
 }
 
 /* Set the root font size so all rem-based sizing scales up.
