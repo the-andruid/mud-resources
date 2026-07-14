@@ -13,12 +13,24 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 
 ## What's here
 
-- **Playing MU*s**: [Getting Started](/playing/guides/), [Finding a Game](/playing/directories/), [MU* Clients](/playing/clients/)
-- **Developing MU*s**: [Accessibility](/developing/accessibility/), [Codebases](/developing/codebases/), [Protocols & Tools](/developing/protocols/), [Open Source Projects](/developing/open-source/), [Newly Discovered](/developing/discovered/), [Hosting Services](/developing/hosting/)
-- **Building & Marketing**: [World Building](/building/craft/), [Marketing & Retention](/building/marketing/), [Recommended Reading](/building/reading/)
-- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history.
-- **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games.
-- **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems.
+- **Playing MU*s**:
+  - [Getting Started](/playing/guides/): Beginner's guides and community links
+  - [Finding a Game](/playing/directories/): Game directories and stats pages
+  - [MU* Clients](/playing/clients/): Downloadable, browser, and mobile phone clients
+- **Developing MU*s**: 
+  - [Accessibility](/developing/accessibility/): Tips for accessible games and tools
+  - [Codebases](/developing/codebases/): Game engines, both modern and classic
+  - [Protocols & Tools](/developing/protocols/): Protocols and standards, plus dev tools
+  - [Open Source Projects](/developing/open-source/): Projects that invite contributions
+  - [Newly Discovered](/developing/discovered/): Recently found and added repos
+  - [Hosting Services](/developing/hosting/): Ideas for where to host your project
+- **Building & Marketing**:
+  - [World Building](/building/craft/): Resources for building text worlds
+  - [Marketing & Retention](/building/marketing/): Tips for attracting and retaining players
+  - [Recommended Reading](/building/reading/): Community picks
+- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history
+- **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games
+- **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems
 
 ## How to contribute
 
