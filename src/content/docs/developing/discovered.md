@@ -16,6 +16,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
 | [LayeredCraft / sharp-mud](https://github.com/LayeredCraft/sharp-mud) | Codebase | 2026-07 | C#/.NET MUD engine with a Thing/Behavior entity model; includes a classic D&D-flavored ruleset with stats and combat |
+| [moo-sh](https://github.com/ull-spec/moo-sh) | Codebase | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Codebase | 2026-07 | A generic 2D MUD implementation |
 | [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
