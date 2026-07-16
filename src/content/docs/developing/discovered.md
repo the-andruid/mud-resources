@@ -16,11 +16,14 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
 | [LayeredCraft / sharp-mud](https://github.com/LayeredCraft/sharp-mud) | Codebase | 2026-07 | C#/.NET MUD engine with a Thing/Behavior entity model; includes a classic D&D-flavored ruleset with stats and combat |
+| [MacMUSH](https://github.com/robduf/MacMUSH) | Codebase | 2026-07 | Native macOS MUD client inspired by MUSHclient; supports worlds, triggers, aliases, timers, and Lua 5.4 scripting |
+| [MacMUSH-Swift](https://github.com/robduf/MacMUSH-Swift) | Codebase | 2026-07 | A native macOS MUD client written in Swift; connects via telnet, renders ANSI colour, sends commands with history; early MVP |
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Codebase | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Codebase | 2026-07 | A generic 2D MUD implementation |
 | [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
 | [wren-creator / mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
+| [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Codebase | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
 
 ## Project-specific
 
