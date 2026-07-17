@@ -1,4 +1,5 @@
 ---
+ogImage: ../../assets/og-home.png
 title: Text-based Game Resources
 description: Guides, codebases, clients, and references for those interested in playing or creating multi-user (MU*) text games and interactive fiction games.
 prev: false

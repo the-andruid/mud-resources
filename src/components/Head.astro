@@ -5,14 +5,16 @@ import Default from '@astrojs/starlight/components/Head.astro';
 
 const { entry } = Astro.locals.starlightRoute;
 // The root page's route id is an empty string, but its image is generated at index.png
-const ogImagePath = `/open-graph/${entry.id.replace(/\.(md|mdx)$/, '') || 'index'}.png`;
-const ogImageUrl = new URL(ogImagePath, Astro.site).href;
+const generatedPath = `/open-graph/${entry.id.replace(/\.(md|mdx)$/, '') || 'index'}.png`;
+// A page can opt out of the generated card with an ogImage frontmatter image
+const og = entry.data.ogImage ?? { src: generatedPath, width: 1200, height: 630 };
+const ogImageUrl = new URL(og.src, Astro.site).href;
 ---
 
 <Default><slot /></Default>
 <meta property="og:image" content={ogImageUrl} />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
+<meta property="og:image:width" content={String(og.width)} />
+<meta property="og:image:height" content={String(og.height)} />
 <meta name="twitter:image" content={ogImageUrl} />
 
 <!-- Litlyx analytics -->
