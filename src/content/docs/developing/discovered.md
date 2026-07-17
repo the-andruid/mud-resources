@@ -21,6 +21,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Codebase | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Codebase | 2026-07 | A generic 2D MUD implementation |
 | [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
+| [oxigeon](https://github.com/a-rodian-jedi/oxigeon) | Codebase | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
 | [wren-creator / mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Codebase | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
@@ -29,9 +30,11 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
+| [burner](https://github.com/jbosse/burner) | Codebase | 2026-07 | A mobile-first Phoenix LiveView MUD about superheroes in Midtown Manhattan; includes onboarding with codenames and powers, a 28-room city area, subway travel, spawned street crimes, round-based combat, and diegetic phone messaging |
 | [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
 | [mud.russross.com](https://github.com/russross/mud.russross.com) | Codebase | 2026-07 | Highlands 3 MUD data pipeline and web app; proxy captures game data, scripts normalize it, serves an equipment catalog and recommendations |
+| [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Codebase | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Codebase | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Codebase | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS-compatible telemetry; pre-implementation, contract and fixture phase |
 
