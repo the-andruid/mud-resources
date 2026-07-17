@@ -4,7 +4,8 @@
 import Default from '@astrojs/starlight/components/Head.astro';
 
 const { entry } = Astro.locals.starlightRoute;
-const ogImagePath = `/open-graph/${entry.id.replace(/\.(md|mdx)$/, '')}.png`;
+// The root page's route id is an empty string, but its image is generated at index.png
+const ogImagePath = `/open-graph/${entry.id.replace(/\.(md|mdx)$/, '') || 'index'}.png`;
 const ogImageUrl = new URL(ogImagePath, Astro.site).href;
 ---
 
