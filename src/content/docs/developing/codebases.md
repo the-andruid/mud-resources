@@ -53,7 +53,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [OpenRPI (Ludlow)](https://github.com/stefanludlow/OpenRPI) | C | DikuMUD derivative, earlier release of the engine that powered the post-shutdown Shadows of Isildur |
 | [PennMUSH](https://web.archive.org/web/20220521122918/https://www.pennmush.org/) | C | [GitHub](https://github.com/pennmush/pennmush) |
 | [PyMUSH](https://pypi.org/project/pymush/#description) | Python | |
-| [Rivers of Mud](https://bartle.mudinstitute.org/codebases/codebase/24) | C | [ROM 2.4b6 QuickMUD GitHub](https://github.com/avinson/rom24-quickmud) |
+| [Rivers of Mud](https://bartle.mudinstitute.org/codebases/codebase/24) | C | [ROM 2.4b6 QuickMUD GitHub](https://github.com/avinson/rom24-quickmud); see also the [Python port](https://github.com/Nostoi/rom24-quickmud-python) with a C-parity test suite |
 | [RanvierMUD](https://ranviermud.com/) | JavaScript | [GitHub](https://github.com/RanvierMUD/ranviermud) |
 | [RhostMUSH](https://github.com/RhostMUSH) | C, JavaScript | |
 | [RMUD](https://github.com/rmud/rmud) | Swift | |
@@ -64,6 +64,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [SMUG](https://bartle.mudinstitute.org/codebases/codebase/28) | C | |
 | StockMUD+ | C | ROM-based, stockmud.com/plus.html [HTTP only], read [Hades_Kane's interview](https://writing-games.org/worldmap-project/) |
 | [Stunt](https://stunt.io/) | C, C++ | [GitHub](https://github.com/toddsundsted/stunt) |
+| [Tapestry](https://tapestryengine.com/) | C# | Modular engine where composable content packs provide the game systems; [GitHub](https://github.com/tapestry-mud/tapestry) |
 | [tbaMUD](https://www.tbamud.com/) | C | [GitHub](https://github.com/tbamud/tbamud) |
 | [TinyMUD](https://archive.org/details/tinymud-1.5.5) | C | |
 | [TinyMUSH](https://github.com/TinyMUSH/TinyMUSH) | C | TinyMUSH 3.x, merging the TinyMUSH 2.2 and TinyMUX 1.6 lines. [SourceForge downloads](https://tinymush.sourceforge.net/) |
