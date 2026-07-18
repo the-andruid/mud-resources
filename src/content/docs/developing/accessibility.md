@@ -8,6 +8,7 @@ Tools and tips for making multi-user (MU*) games more accessible.
 ## Tools
 
 - [Screen Reader Preview Tool](https://writing-games.org/screen-reader-preview/) - Preview how your game's text will sound through a screen reader
+- [Soundpack Vault](https://mudsoundpack.com/) - Collection of MUD soundpacks in one place, gathered from personal sites, forum posts, and old archive pages
 
 ## Communities
 
