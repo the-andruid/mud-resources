@@ -16,7 +16,10 @@ Clients you can download to your computer:
 | [Mudlet](https://www.mudlet.org/) | Win, macOS, Linux | Fast and highly configurable with [accessibility features](https://writing-games.org/mudlet-accessibility-updates/) |
 | [MUSHclient](https://www.gammon.com.au/mushclient/mushclient.htm) | Win | Popular client for Win users |
 | [Potato](https://www.potatomushclient.com/) | Win, macOS, Linux | |
+| [QMud](https://www.qmud.dev/) | Win, macOS, Linux | Qt 6 continuation of MUSHclient, compatible with MUSHclient data files and plugins; [GitHub](https://github.com/Nodens-/QMud) |
+| [Rune](https://runemud.com/) | Win, macOS, Linux | Terminal client written in Go with Lua scripting; [GitHub](https://github.com/mmcdole/rune) |
 | [Savitar](https://www.heynow.com/Savitar/) | macOS | |
+| [Smudgy](https://www.smudgy.org/) | Win, macOS, Linux | GUI client with TypeScript scripting, in public beta; [GitHub](https://github.com/smudgy-mud/smudgy) |
 | [Telix](https://telix.readthedocs.io/en/latest/intro.html) | Win, macOS, Linux | MUD + BBS client, installs with pip |
 | [TinTin++](https://tintin.mudhalla.net/) | Win, macOS, Linux | |
 | [VIP Mud](https://www.gmagames.com/vipmud.shtml) | Win | Accessibility-oriented but costs $30 |
@@ -28,8 +31,8 @@ Clients you can use from your browser:
 
 | Client | Notes |
 | --- | --- |
-| [MudForge](https://mudforge.org/) | Modern, full-featured web client, read about it in [Asmodeus' interview](https://writing-games.org/mudvault/) |
-| [LociTerm](https://lociterm.com/) | Runs on just about anything, read about it in [RahjIII's interview](https://writing-games.org/lociterm-mud-client/) |
+| [MudForge](https://mudforge.org/) | Modern, full-featured web client; read about it in [Asmodeus' interview](https://writing-games.org/mudvault/) |
+| [LociTerm](https://lociterm.com/) | Runs on just about anything; read about it in [RahjIII's interview](https://writing-games.org/lociterm-mud-client/) |
 
 ## Mobile apps
 
@@ -51,6 +54,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [BeipMU](https://beipdev.github.io/BeipMU/) | |
 | [birdie](https://github.com/OrangeTide/birdie) | MUD client with an elaborate custom GUI, written in C |
 | [BlightMUD](https://github.com/Blightmud/Blightmud) | Inspired by [TinyFugue](https://en.wikipedia.org/wiki/TinyFugue). See also [Blightspell](https://github.com/cpu/blightspell), a spellchecker for BlightMUD |
+| [BlowTorch 2.0](https://github.com/Taracair/BlowTorch2) | Android, revamped continuation of the retired Blowtorch client, apk on GitHub |
 | [Chrysalis](https://github.com/Cryosphere-MUD/chrysalis) | Browser-based, read about it in [Morwen's interview](https://writing-games.org/cryosphere-satirical-sci-fi-mud/) |
 | [KMuddy](https://github.com/KDE/kmuddy) | |
 | [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
@@ -68,6 +72,6 @@ Clients that are no longer maintained, distributed, or available. Listed here fo
 | --- | --- |
 | DuckClient | duckclient.com [HTTP only] |
 | Mudslinger | Browser-based |
-| [Blowtorch](https://bt.happygoatstudios.com/) | Mobile, Google Play |
+| [Blowtorch](https://bt.happygoatstudios.com/) | Mobile, Google Play. Revived in 2026 as [BlowTorch 2.0](https://github.com/Taracair/BlowTorch2) |
 | [MUDRammer](https://splinesoft.net/mudrammer/) | Mobile, Apple Store. Retired as of 3/18/25 but the code is still available on [GitHub](https://github.com/splinesoft/MUDRammer) |
 | [Mukluk](https://github.com/DanCaprine/Mukluk) | Mobile, Google Play |
