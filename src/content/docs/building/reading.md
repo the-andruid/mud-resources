@@ -11,7 +11,7 @@ Recommended reading for players and game designers.
 
 ## Online articles
 
-- [Bartle's taxonomy of player types](https://mud.co.uk/richard/hcds.htm) - Classic framework on how to balance your game and playerbase
+- [Bartle's taxonomy of player types](https://mud.co.uk/richard/hcds.htm) - Classic framework on how to balance your game and playerbase; worth a read for a look at early theories in game design based on MUDs
 - [Best Practices For Historical Gaming](https://jamesmendezhodes.com/blog/2018/11/10/best-practices-for-historical-gaming) by James Mendez Hodes - For RP-focused games drawing on real-world history
 
 ## Books
