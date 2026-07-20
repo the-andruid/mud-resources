@@ -40,6 +40,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [Merc](https://bartle.mudinstitute.org/codebases/codebase/mercmud) | C | [Merc 2.1 GitHub](https://github.com/alexmchale/merc-mud) |
 | [ModernMUD](https://github.com/Xangis/ModernMUD) | C# | |
 | [mooR](https://timbran.org/moor.html) | Rust | [Codeberg](https://codeberg.org/timbran/moor) |
+| [muc-python3](https://github.com/chulbumi/muc-python3) | Rust | Python to Rust MUD engine migration |
 | [MUD1](https://en.wikipedia.org/wiki/MUD1) | BCPL | [GitHub](https://github.com/PDP-10/MUD1), original by Bartle/Trubshaw, later ported to C++ by Viktor Toth in 2000 |
 | [Mud98](https://github.com/jsuich/Mud98) | C | ROM 2.4b6 derivative, with updates and improvements |
 | [MudOS](https://bartle.mudinstitute.org/codebases/codebase/15) | C | Driver in C, in-game scripting in LPC |
