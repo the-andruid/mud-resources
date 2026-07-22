@@ -22,7 +22,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [MacMUSH-Swift](https://github.com/robduf/MacMUSH-Swift) | Codebase | 2026-07 | A native macOS MUD client written in Swift; connects via telnet, renders ANSI colour, sends commands with history; early MVP |
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Codebase | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Codebase | 2026-07 | A generic 2D MUD implementation |
-| [mudmux](https://github.com/taedlar/mudmux) | Tool | 2026-06 | Transport-layer multiplexer/host for generic MUD servers (C++) |
 | [oxigeon](https://github.com/a-rodian-jedi/oxigeon) | Codebase | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
 | [wren-creator / mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
