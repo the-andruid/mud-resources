@@ -85,7 +85,8 @@ The format you pick determines what a Twine project can do.
 
 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) - Andrew Plotkin's effort to collect every version of every Infocom game
 - [historicalsource](https://github.com/historicalsource) - Jason Scott's archive of original Infocom ZIL source code
-- [Get Lamp](https://archive.org/details/GET_LAMP_The_Text_Adventure_Documentary) - Jason Scott's documentary about text adventures, on the Internet Archive (the original site is gone)
+- [Get Lamp](http://www.getlamp.com/) - Jason Scott's documentary about text adventures; the film and roughly 80 raw interviews are [on the Internet Archive](https://archive.org/details/GET_LAMP_The_Text_Adventure_Documentary)
+- [From Infocom to 80 Days: An Oral History of Text Games and Interactive Fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/) - Ars Technica's 2024 feature: fifty years of IF told by its creators, from Infocom to Inkle
 - [Magnetic Scrolls Memorial](https://msmemorial.if-legends.org/) - History and preservation for the British IF house Magnetic Scrolls
 - [Level 9 Memorial](https://l9memorial.if-legends.org/) - Tribute to the British IF company Level 9
 - [Strand Games](https://strandgames.com/) - Modern IF studio publishing the official Magnetic Scrolls remasters
