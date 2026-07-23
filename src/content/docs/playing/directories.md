@@ -20,6 +20,7 @@ Find a game to play:
 | [LociTerm](https://lociterm.com/) | Browser-based MUD client that also lists active games by recent activity |
 | [MOOList](https://moolist.com/) | Lists MOO (MUD, Object-Oriented) games specifically |
 | [MUDhalla Mud List](https://mudhalla.net/mudlist/) | More traditional list backed by MSSP crawling; classic look |
+| [Mudhaven](https://www.mudhaven.net) | MUD game directory |
 | [Best MUDs](https://bestmuds.com/) | Formerly MudListings; large directory of ~700 games with reviews and rankings |
 | [MUDVault](https://mudvault.org/) | Listings, ratings, code archives, dev tools, web client; read the [interview with Asmodeus](https://writing-games.org/mudvault/) |
 | [MudVerse](https://www.mudverse.com/) | Free directory and rankings for MUDs, MOOs, and MUSHes, with reviews and voting |
