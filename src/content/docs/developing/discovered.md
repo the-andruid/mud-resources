@@ -40,6 +40,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Codebase | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Codebase | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Codebase | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS-compatible telemetry; pre-implementation, contract and fixture phase |
+| [WuxiaGo](https://github.com/ccubed/WuxiaGo) | Codebase | 2026-07 | A wuxia-themed MUD server built on the GoMud engine in Go; includes a playable default world and web-based admin tools |
 
 ## Platforms
 
