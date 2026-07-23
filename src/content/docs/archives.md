@@ -57,6 +57,7 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 
 ## Documentaries & video
 
+- [Exile in MUDville: Why Text-Based Online Gaming Refuses to Die](https://www.youtube.com/watch?v=c3C_uzN6M94) - This Exists video essay (2024) on why MUDs endure decades after flashier successors arrived; a 19-minute look at the scene as it is today
 - [The History & Evolution of Massively Multiplayer Games](https://www.youtube.com/watch?v=kHu709a0sp0) - Noclip documentary (2026) with Raph Koster (LegendMUD, Ultima Online) tracing massively multiplayer games from their MUD roots; a 22-minute overview of how MUDs shaped the genre
 
 ## Developer & community archives
