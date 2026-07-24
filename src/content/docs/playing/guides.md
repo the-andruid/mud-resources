@@ -15,6 +15,13 @@ New to multi-user (MU*) text games? These primers will help you get you started:
 - [Immersive Roleplay 101](https://writing-games.org/immersive-roleplaying-guide/) - Level up your roleplay with some pro tips
 - [MUSH 101 - An Introduction to MUSHing](https://aresmush.com/mush-101) - Learn how to write collaboratively
 
+When you're ready, find some games to try:
+
+- [10 Long-running MUDs](https://medium.com/@the_andruid/multi-user-dungeons-10-games-still-serving-up-text-based-fun-in-2023-1e3951d3bf43) - 10 classic games, plus 3 bonus games that are newer; start here
+- [7 Unique MU*s](https://medium.com/@the_andruid/6-unique-multi-user-dungeons-worth-exploring-cdc9f16bf1e9) - 7 other unique games (both older and newer) and what makes them special
+
+For more games, head over to [MudVault](https://mudvault.org) or navigate to the page on [Finding a Game](/playing/directories/) next.
+
 ## Community hubs
 
 Links to parts of the community where you can join in discussions and ask for help:
@@ -26,6 +33,6 @@ Links to parts of the community where you can join in discussions and ask for he
 - [Brand MU Day](https://brandmu.day/) - MUSH/RP-focused forums
 - [AudioGames.net](https://audiogames.net/) - Forums and news for blind and visually impaired gamers, including a MUD-playing community
 
-## Glossary
+## Learning the lingo
 
 - [Text-based gaming glossary](https://writing-games.org/text-game-terms/)
