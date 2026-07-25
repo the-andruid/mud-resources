@@ -30,14 +30,14 @@ Available from the left-side nav menu:
   - [World Building](/building/craft/): Resources for building text worlds
   - [Marketing & Retention](/building/marketing/): Tips for attracting and retaining players
   - [Recommended Reading](/building/reading/): Community picks
-- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from or about MUD history
+- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from and about MUD history
 
 ### Also here
 
 Resources for related families of single-player and BBS-style text games:
 
-- **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games
-- **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems
+- **[Interactive Fiction](/interactive-fiction/)**: Resources for single-player text games, such as parser and hypertext IF
+- **[BBS Door Games](/bbs-doors/)**: Resources for the multiplayer text games that ran on bulletin board systems
 
 ## How to contribute
 
