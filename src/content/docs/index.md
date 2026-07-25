@@ -14,6 +14,8 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 
 ## What's here
 
+Available from the left-side nav menu:
+
 - **Playing MU*s**:
   - [Getting Started](/playing/guides/): Beginner's guides and community links
   - [Finding a Game](/playing/directories/): Game directories and stats pages
@@ -29,7 +31,12 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
   - [World Building](/building/craft/): Resources for building text worlds
   - [Marketing & Retention](/building/marketing/): Tips for attracting and retaining players
   - [Recommended Reading](/building/reading/): Community picks
-- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from MUD history
+- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from or about MUD history
+
+### Also here
+
+Resources for related families of single-player and BBS-style text games:
+
 - **[Interactive Fiction](/interactive-fiction/)**: Links to resources for single-player text games
 - **[BBS Door Games](/bbs-doors/)**: Links to resources for the multiplayer text games that ran on bulletin board systems
 
