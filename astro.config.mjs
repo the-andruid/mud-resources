@@ -7,6 +7,9 @@ import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
 	site: 'https://resources.writing-games.org',
+	redirects: {
+		'/developing/open-source/': '/developing/codebases/',
+	},
 	markdown: {
 		rehypePlugins: [
 			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
@@ -72,7 +75,6 @@ export default defineConfig({
 						{ label: 'Accessibility', slug: 'developing/accessibility' },
 						{ label: 'Codebases', slug: 'developing/codebases' },
 						{ label: 'Protocols', slug: 'developing/protocols' },
-						{ label: 'Open Source Projects', slug: 'developing/open-source' },
 						{ label: 'Newly Discovered', slug: 'developing/discovered' },
 						{ label: 'Hosting Services', slug: 'developing/hosting' },
 					],

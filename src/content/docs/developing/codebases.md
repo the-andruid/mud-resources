@@ -85,3 +85,13 @@ Game libraries that run on top of an LPMud driver (such as [FluffOS](https://www
 ## Compiled binaries
 
 - [Prool's collection of compiled servers](https://blog.mud.kharkov.org/archives/1569/) for use with Windows, including MERC, ROM, DikuMUD, and more
+
+## Open source projects
+
+Open-source games, engines, and tools that accept community contributions:
+
+- [ArchaicQuest](https://www.archaicquest.com/) ([ArchaicQuest-II GitHub](https://github.com/ArchaicQuest/ArchaicQuest-II))
+- [Arx, After the Reckoning](https://play.arxgame.org/) ([Arxcode GitHub](https://github.com/Arx-Game/arxcode))
+- [AwakeMUD CE](https://www.awakemud.com/) ([GitHub](https://github.com/luciensadi/awakemud))
+- [GoMUD engine](https://github.com/GoMudEngine/GoMud)
+- [MUD Colorizer Tool](https://coffee-nerd.github.io/MUD-Colorizer/)

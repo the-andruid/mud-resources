@@ -7,6 +7,8 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 
 ## Books
 
+Full-length works, from period guides that taught people how to play to modern histories of the era. Scans and borrowable copies are noted where the print is hard to find.
+
 - [50 Years of Text Games](https://if50.textories.com/) by Aaron A. Reed - Web series turned book covering one text game per year from 1971-2020. Not MUD-specific, but covers them as part of the broader history
 - [An Introduction to MUD (1985)](https://www.mocagh.org/miscgame/micromud-book.pdf) by Duncan Howard - PDF hosted on Museum of Computer Adventure Game History
 - [Designing Virtual Worlds](https://archive.org/details/designing-virtual-worlds) by Richard Bartle - The definitive academic text on virtual world design; full book, Creative Commons-licensed since 2021 (also a [free PDF](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) on his site)
@@ -20,6 +22,8 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 
 ## Essays & papers
 
+Academic and long-form writing on the culture of text worlds: identity, gender, governance, and community, mostly from the field's formative years.
+
 - [A Rape in Cyberspace](http://www.juliandibbell.com/articles/a-rape-in-cyberspace/) by Julian Dibbell (1993) - Landmark essay on a virtual assault in LambdaMOO and how the community responded; a foundational text on online social dynamics
 - [A Social History of Virtual Worlds](https://journals.ala.org/index.php/ltr/article/view/4254/4860) (Library Technology Reports) - Scholarly chapter tracing virtual worlds from MUD1 and TinyMUD to their graphical successors
 - [Cultural Formations in Text-Based Virtual Realities](http://www.aluluei.com/cult-form.htm) by Elizabeth Reid (1994) - Master's thesis on MUD culture: identity, gender, power, and community ritual in LambdaMOO, FurryMUCK, and JennyMUSH; full text on the author's site, alongside its IRC-focused 1991 precursor [Electropolis](http://www.aluluei.com/electropolis.htm)
@@ -27,6 +31,8 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 - [Mudding: Social Phenomena in Text-Based Virtual Realities](http://web.archive.org/web/20260329151911/https://www.hayseed.net/MOO/curtis_mudding.article.txt) by Pavel Curtis (1992) - Seminal Xerox PARC paper on the social dynamics of MUDs and MOOs; Wayback Machine copy
 
 ## Journalism & retrospectives
+
+Popular press looking back at the MUD era and tracing its influence on the games that came after.
 
 - [The Forgotten Fame of LambdaMOO](https://thenewstack.io/a-look-back-in-time-the-forgotten-fame-of-lambdamoo/) (The New Stack) - Retrospective on Pavel Curtis and the world LambdaMOO built
 - [The Game Archaeologist: A Brief History of Multi-User Dungeons](https://massivelyop.com/2019/10/26/the-game-archaeologist-a-brief-history-of-multi-user-dungeons/) (Massively Overpowered, 2019) - MMO-history column entry on the MUD era; the column revisits MUD topics regularly
@@ -37,11 +43,15 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 
 ## Zines, periodicals & podcasts
 
+Serial publications from and about the community, spanning the late-'90s e-zine era through more recent audio.
+
 - [Grim Wheel's Imaginary Realities Archive](https://www.grimwheel.com/imaginary/) - Additional resources and context about Imaginary Realities e-magazine
 - [Imaginary Realities Archive](http://tharsis-gate.org/articles/imaginary.html) - Tharsis Gate [HTTP only] - Thought leadership about MUDs, published between 1998-2001
 - [Titans of Text](https://open.spotify.com/show/71D4ZChTthvCdQdelUAc6d) - Podcast interviewing creators and legends from the text-based game community, including Richard Bartle; no longer producing new episodes
 
 ## Interviews & talks
+
+Conversations and conference talks with the people who built the first virtual worlds, in podcast, video, and transcript form.
 
 - [Creating Virtual Worlds with Richard Bartle](https://www.professorgame.com/podcast/034/) (Professor Game) - Podcast episode on MUD's origins and the player-type taxonomy
 - [Free for All: Interviewing Achaea's Matt Mihaly for MUD May](https://www.engadget.com/2013-05-29-free-for-all-interviewing-achaeas-matt-mihaly-for-mud-may.html) (Engadget, 2013) - Mihaly on the state and future of commercial text MUDs
@@ -57,10 +67,14 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 
 ## Documentaries & video
 
+Filmed histories and video essays, both on the era itself and on the games still running today.
+
 - [Exile in MUDville: Why Text-Based Online Gaming Refuses to Die](https://www.youtube.com/watch?v=c3C_uzN6M94) - This Exists video essay (2024) on why MUDs endure decades after flashier successors arrived; a 19-minute look at the scene as it is today
 - [The History & Evolution of Massively Multiplayer Games](https://www.youtube.com/watch?v=kHu709a0sp0) - Noclip documentary (2026) with Raph Koster (LegendMUD, Ultima Online) tracing massively multiplayer games from their MUD roots; a 22-minute overview of how MUDs shaped the genre
 
 ## Developer & community archives
+
+Preserved collections and personal sites: mailing lists, file archives, and the design writing developers left behind.
 
 - [Amy Bruckman's papers](https://sites.cc.gatech.edu/fac/Amy.Bruckman/papers/old-papers.html) - Full texts of the foundational MediaMOO and MOOSE Crossing research on education and community in MOOs
 - [Bartle's MUD Writings Archive](https://mud.co.uk/richard/oarchive.htm) - Collection of academic and popular articles
@@ -77,5 +91,7 @@ Links to various sources from the '80s, '90s, and early 2000s, as well as more r
 - [yduJ's MOO Programmer's Tutorial](https://hayseed.net/MOO/yduj-duck-tutorial.text) - Hands-on introduction to MOO programming taught through the classic wind-up duck example
 
 ## Living history
+
+Historic worlds still online, where the history is playable rather than only readable.
 
 - [British Legends](https://www.british-legends.com/) - Viktor T. Toth's running C++ reimplementation and history of the original 1978 Essex MUD1 (CompuServe's "British Legends")

@@ -24,7 +24,6 @@ Available from the left-side nav menu:
   - [Accessibility](/developing/accessibility/): Tips for accessible games and tools
   - [Codebases](/developing/codebases/): Game engines, both modern and classic
   - [Protocols & Tools](/developing/protocols/): Protocols and standards, plus dev tools
-  - [Open Source Projects](/developing/open-source/): Projects that invite contributions
   - [Newly Discovered](/developing/discovered/): Recently found and added repos
   - [Hosting Services](/developing/hosting/): Ideas for where to host your project
 - **Building & Marketing**:
@@ -58,7 +57,7 @@ It's maintained by [Andruid](https://writing-games.org/author/andruid/) as part 
 
 ### How is the site organized?
 
-Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (accessibility, codebases, protocols, open-source projects, newly discovered finds, hosting), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
+Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (accessibility, codebases, protocols, newly discovered finds, hosting), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
 
 ### How do I suggest a resource or report a problem?
 
