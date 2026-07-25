@@ -33,6 +33,8 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | --- | --- | --- | --- |
 | [aardwolf-plugins](https://github.com/SeanStoves/aardwolf-plugins) | Codebase | 2026-07 | MUSHclient plugins for the Aardwolf MUD; includes a recall button manager and a map exporter built from the Aardwolf mapper database |
 | [burner](https://github.com/jbosse/burner) | Codebase | 2026-07 | A mobile-first Phoenix LiveView MUD about superheroes in Midtown Manhattan; includes onboarding with codenames and powers, a 28-room city area, subway travel, spawned street crimes, round-based combat, and diegetic phone messaging |
+| [ccubed / CozyMud](https://github.com/ccubed/CozyMud) | Codebase | 2026-07 | A MUD game built on the GoMud engine; focuses on stories and provenance rather than combat and levels |
+| [dedeguo / fanren-mud](https://github.com/dedeguo/fanren-mud) | Codebase | 2026-07 | Web-based text MUD game set in the 凡人修仙传 novel; features cultivation ranks, equipment, companions, dungeons, and multiple endings |
 | [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
 | [hollow-grid-c](https://github.com/skyphusion-labs/hollow-grid-c) | Codebase | 2026-07 | C world-server port of The Hollow Grid federated MUD network; implements its wire protocol as a Grid node hosting the Ferrite Wastes world |
