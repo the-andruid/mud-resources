@@ -41,6 +41,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [mud.russross.com](https://github.com/russross/mud.russross.com) | Codebase | 2026-07 | Highlands 3 MUD data pipeline and web app; proxy captures game data, scripts normalize it, serves an equipment catalog and recommendations |
 | [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Codebase | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Codebase | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
+| [taskweft / crucible-rfd](https://github.com/taskweft/crucible-rfd) | Codebase | 2026-07 | Requests for Discussion documents for Crucible, a playable MUD with deterministic NPCs and an LLM-capable evaluation mode; covers transport, world design, architecture, and NPC domain planning |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Codebase | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS-compatible telemetry; pre-implementation, contract and fixture phase |
 | [WuxiaGo](https://github.com/ccubed/WuxiaGo) | Codebase | 2026-07 | A wuxia-themed MUD server built on the GoMud engine in Go; includes a playable default world and web-based admin tools |
 
