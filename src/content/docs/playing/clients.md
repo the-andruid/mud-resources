@@ -13,6 +13,7 @@ Clients you can download to your computer:
 | --- | --- | --- |
 | [Atlantis](https://www.riverdark.net/atlantis/) | macOS | |
 | [AxMUD](https://axmud.sourceforge.io/) | Win, Linux | Includes a screen reader version/config |
+| [Mallard](https://mallard.vnsf.xyz) | macOS, Win, Linux | Includes a plugin marketplace with a permission system, input autocompletion, and full-text log search |
 | [Mudlet](https://www.mudlet.org/) | Win, macOS, Linux | Fast and highly configurable with [accessibility features](https://writing-games.org/mudlet-accessibility-updates/) |
 | [MUSHclient](https://www.gammon.com.au/mushclient/mushclient.htm) | Win | Popular client for Win users |
 | [Potato](https://www.potatomushclient.com/) | Win, macOS, Linux | |
