@@ -16,6 +16,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [ex_mush](https://github.com/wisq/ex_mush) | Codebase | 2026-07 | A rewrite of a MUSH server in Elixir |
 | [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [fluffos-vscode](https://github.com/fluffos/fluffos-vscode) | Codebase | 2026-07 | VS Code extension providing syntax highlighting, structural diagnostics, formatting, and real compiler errors for LPC via the FluffOS lpcc front-end; also ships a Compiler Explorer with source, tokens, AST, and bytecode views |
+| [GwenNelson / BlingMUD](https://github.com/GwenNelson/BlingMUD) | Codebase | 2026-07 | A Python MUD engine using telnet only, built for small communities of 10 to 20 active users rather than heavy scaling |
 | [KATMud](https://github.com/indesignkat/KATMud) | Client | 2026-06 | Python & SQLite client for the 3Scapes MUD |
 | [LayeredCraft / sharp-mud](https://github.com/LayeredCraft/sharp-mud) | Codebase | 2026-07 | C#/.NET MUD engine with a Thing/Behavior entity model; includes a classic D&D-flavored ruleset with stats and combat |
 | [MacMUSH](https://github.com/robduf/MacMUSH) | Codebase | 2026-07 | Native macOS MUD client inspired by MUSHclient; supports worlds, triggers, aliases, timers, and Lua 5.4 scripting |
@@ -26,6 +27,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
 | [wren-creator / mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Codebase | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
+| [zefir6 / mush-gateway](https://github.com/zefir6/mush-gateway) | Codebase | 2026-07 | A persistent proxy/bouncer for PennMUSH sessions; keeps the connection alive, mirrors traffic to multiple clients, logs sessions to disk |
 
 ## Project-specific
 
