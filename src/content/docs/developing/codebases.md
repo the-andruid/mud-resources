@@ -73,6 +73,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [UberMUD](https://bartle.mudinstitute.org/codebases/codebase/ubermud) | C | |
 | [UnterMUD](https://bartle.mudinstitute.org/codebases/codebase/untermud) | C | |
 | [UriMUD](https://bartle.mudinstitute.org/codebases/codebase/14) | C | |
+| [wren-creator/mud](https://github.com/wren-creator/mud) | Python | "City of the Spider Queen — Ruins of Undermountain MUD", Forgotten Realms setting |
 
 ## LPC mudlibs
 

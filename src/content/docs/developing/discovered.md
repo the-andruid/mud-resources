@@ -25,7 +25,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Codebase | 2026-07 | A generic 2D MUD implementation |
 | [oxigeon](https://github.com/a-rodian-jedi/oxigeon) | Codebase | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
-| [wren-creator / mud](https://github.com/wren-creator/mud) | Codebase | 2026-06 | "City of the Spider Queen — Ruins of Undermountain MUD" - a Forgotten Realms MUD in Python |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Codebase | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
 | [zefir6 / mush-gateway](https://github.com/zefir6/mush-gateway) | Codebase | 2026-07 | A persistent proxy/bouncer for PennMUSH sessions; keeps the connection alive, mirrors traffic to multiple clients, logs sessions to disk |
 
@@ -40,6 +39,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
 | [hollow-grid-c](https://github.com/skyphusion-labs/hollow-grid-c) | Codebase | 2026-07 | C world-server port of The Hollow Grid federated MUD network; implements its wire protocol as a Grid node hosting the Ferrite Wastes world |
+| [LuminariMUD / luminariweb](https://github.com/LuminariMUD/luminariweb) | Codebase | 2026-07 | React and Node web MUD client for LuminariMUD-compatible games; browser UI with WebSocket-to-Telnet proxy and MSDP-driven HUD state |
 | [mud.russross.com](https://github.com/russross/mud.russross.com) | Codebase | 2026-07 | Highlands 3 MUD data pipeline and web app; proxy captures game data, scripts normalize it, serves an equipment catalog and recommendations |
 | [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Codebase | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Codebase | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
