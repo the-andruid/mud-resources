@@ -58,6 +58,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [BlightMUD](https://github.com/Blightmud/Blightmud) | Inspired by [TinyFugue](https://en.wikipedia.org/wiki/TinyFugue). See also [Blightspell](https://github.com/cpu/blightspell), a spellchecker for BlightMUD |
 | [BlowTorch 2.0](https://github.com/Taracair/BlowTorch2) | Android, revamped continuation of the retired Blowtorch client, apk on GitHub |
 | [Chrysalis](https://github.com/Cryosphere-MUD/chrysalis) | Browser-based, read about it in [Morwen's interview](https://writing-games.org/cryosphere-satirical-sci-fi-mud/) |
+| [KATMud](https://github.com/indesignkat/KATMud) | Python and SQLite client for the 3Scapes MUD |
 | [KMuddy](https://github.com/KDE/kmuddy) | |
 | [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
 | [Mudlet](https://github.com/Mudlet/Mudlet) | |
