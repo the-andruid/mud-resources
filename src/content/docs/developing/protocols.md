@@ -14,6 +14,7 @@ Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 - [MUDhalla protocol documentation](https://tintin.mudhalla.net/protocols/gmcp/) - Info on GMCP, MSSP, and other protocols
 - [MXP specification](https://www.zuggsoft.com/zmud/mxp.htm) - The original MUD eXtension Protocol (MXP) spec from Zugg Software; public domain
 - [Mudstandards.org](https://mudstandards.org/) - Collection of MUD protocols and documentation for coders
+- [So you want to write a mapper...](https://mudstandards.org/howto/mapping) - How clients build room graphs from MXP, MSDP, and GMCP data, plus tilemap and inline-graphics approaches
 
 ## Tools
 

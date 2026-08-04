@@ -19,6 +19,7 @@ Tools and tips for making multi-user (MU*) games more accessible.
 - [Tips from Niamh](https://writing-games.org/accessibility-in-alter-epoch-mu/) (Alter Epoch)
 - [Tips from Klor](https://writing-games.org/accessibility-improvements-in-lotj-mud/) (Legends of the Jedi)
 - [Tips from Khufu](https://writing-games.org/empiremud-build-cities-with-text/) (EmpireMUD)
+- [The MUD That Got It Right](https://lanie.work/gaming/erion-accessibility-review/) (Erion) - a blind player with multiple disabilities reviews the features that work for her: screen reader mode, pathfinding, equipment search, and keyboard shortcuts
 
 ## Accessibility-focused clients
 
