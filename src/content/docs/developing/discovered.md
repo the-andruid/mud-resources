@@ -11,9 +11,9 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | --- | --- | --- | --- |
 | [Arthmoor / I3-Router](https://github.com/Arthmoor/I3-Router) | Codebase | 2026-07 | A standalone Intermud-3 router implementation that lets MUDs connect without requiring LPMud libraries or drivers |
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Codebase | 2026-07 | A MUD engine written in Rust |
-| [cardbound-mud](https://github.com/BingusDev/cardbound-mud) | Codebase | 2026-07 | Browser-first multiplayer text MUD prototype set in Cardbound City; combines card game and anime crossover classes with a combat resource-meter system, quests, and a collectible card binder loop |
 | [Compilable World Evennia Prototype](https://github.com/kakon77777-commits/CompilableWorld-Evennia-Prototype) | Codebase | 2026-07 | AI-driven pipeline that converts novels or world bibles into validated, playable Evennia-based MUDs; now superseded, kept as a reference implementation |
 | [Discordanian / mudoxi](https://github.com/Discordanian/mudoxi) | Codebase | 2026-08 | A mud client written in Rust; uses the ratatui terminal UI library |
+| [ebony-rose / Mud-Server](https://github.com/ebony-rose/Mud-Server) | Codebase | 2026-08 | A Java MUD server aiming to be a general purpose framework; supports arbitrary exit names and a small MPI-like scripting system; unfinished but stable |
 | [ex_mush](https://github.com/wisq/ex_mush) | Codebase | 2026-07 | A rewrite of a MUSH server in Elixir |
 | [fido](https://github.com/i-am-tanni/fido) | Codebase | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [fluffos-vscode](https://github.com/fluffos/fluffos-vscode) | Codebase | 2026-07 | VS Code extension providing syntax highlighting, structural diagnostics, formatting, and real compiler errors for LPC via the FluffOS lpcc front-end; also ships a Compiler Explorer with source, tokens, AST, and bytecode views |
@@ -38,7 +38,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [aardwolf-plugins](https://github.com/SeanStoves/aardwolf-plugins) | Codebase | 2026-07 | MUSHclient plugins for the Aardwolf MUD; includes a recall button manager and a map exporter built from the Aardwolf mapper database |
 | [burner](https://github.com/jbosse/burner) | Codebase | 2026-07 | A mobile-first Phoenix LiveView MUD about superheroes in Midtown Manhattan; includes onboarding with codenames and powers, a 28-room city area, subway travel, spawned street crimes, round-based combat, and diegetic phone messaging |
 | [ccubed / CozyMud](https://github.com/ccubed/CozyMud) | Codebase | 2026-07 | A MUD game built on the GoMud engine; focuses on stories and provenance rather than combat and levels |
-| [dedeguo / fanren-mud](https://github.com/dedeguo/fanren-mud) | Codebase | 2026-07 | Web-based text MUD game set in the 凡人修仙传 novel; features cultivation ranks, equipment, companions, dungeons, and multiple endings |
 | [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Codebase | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Codebase | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
 | [hollow-grid-c](https://github.com/skyphusion-labs/hollow-grid-c) | Codebase | 2026-07 | C world-server port of The Hollow Grid federated MUD network; implements its wire protocol as a Grid node hosting the Ferrite Wastes world |

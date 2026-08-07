@@ -88,6 +88,7 @@ Preserved collections and personal sites: mailing lists, file archives, and the 
 - [Psychochild's Blog](http://web.archive.org/web/20200830224512/http://psychochild.org/) - Brian Green's long-running MUD and MMO design blog (Genocide, Meridian 59); Green died in 2020 and the domain has since lapsed, so this is the Wayback Machine's copy
 - [Raph Koster's writings](https://www.raphkoster.com/) - Essays on virtual world design, including "The Laws of Online World Design" and the Online World Timeline
 - [The Sourcery](https://sourcery.dyndns.org/) - Older collection of MUD developer articles
+- [Xiake Xing MUD Architecture Teardown](https://github.com/gukt/xkx-mud-docs) - Chapter-by-chapter dissection of 侠客行 (Xiake Xing), a classic 1990s Chinese MudOS/LPC game: its master object, simul_efun, daemons, object inheritance, and combat; written in Chinese, and built from an archived 2001 snapshot of the source. Games in the same lineage are still running; see [International](/playing/directories/#international)
 - [yduJ's MOO Programmer's Tutorial](https://hayseed.net/MOO/yduj-duck-tutorial.text) - Hands-on introduction to MOO programming taught through the classic wind-up duck example
 
 ## Living history
