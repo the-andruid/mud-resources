@@ -20,6 +20,7 @@ Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 
 Miscellaneous tools useful for MU* development:
 
+- [codemirror-lambdamoo](https://github.com/kruton/codemirror-lambdamoo) - CodeMirror language support for LambdaMOO
 - [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
@@ -34,3 +35,4 @@ Miscellaneous tools useful for MU* development:
 ## References
 
 - [Awesome MUDs](https://github.com/maldorne/awesome-muds) - Curated list of MUD codebases, libraries, and other links
+- [Improving Heuristics](https://www.redblobgames.com/pathfinding/heuristics/differential.html) - Amit Patel's interactive Red Blob Games tutorial on speeding up A* pathfinding with landmark-based differential heuristics; handy for speedwalking and NPC movement over room graphs
