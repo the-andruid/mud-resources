@@ -28,6 +28,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [oxigeon](https://github.com/OxigeonOS/oxigeon) | Codebase | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [SharpMUSH / MUIndex](https://github.com/SharpMUSH/MUIndex) | Codebase | 2026-07 | An information site for the MU* hobby (MUSHes, MUDs, MUCKs, MOOs) with data measured via continuous probing, not manually submitted |
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Codebase | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
+| [taranion / MUDEventQueue](https://github.com/taranion/MUDEventQueue) | Codebase | 2026-08 | Java library that reads and writes Telnet and ANSI data as event streams |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Codebase | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
 | [zefir6 / mush-gateway](https://github.com/zefir6/mush-gateway) | Codebase | 2026-07 | A persistent proxy/bouncer for PennMUSH sessions; keeps the connection alive, mirrors traffic to multiple clients, logs sessions to disk |
 
