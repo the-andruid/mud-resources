@@ -58,6 +58,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [RhostMUSH](https://github.com/RhostMUSH) | C, JavaScript | |
 | [RMUD](https://github.com/rmud/rmud) | Swift | |
 | [RMUDReboot](https://github.com/Blecki/RMUDReboot) | C# | |
+| [sharp-mud](https://github.com/LayeredCraft/sharp-mud) | C# | Thing/Behavior entity model; includes a D&D-flavored ruleset with stats and combat |
 | [SillyMUD](https://bartle.mudinstitute.org/codebases/codebase/21) | C | |
 | [Sin](https://github.com/archaro/sin) | C | Custom bytecode interpreter and SLIP-inspired scripting language |
 | [Smaug](https://smaugmuds.afkmods.com/) | C | [SmaugFUSS GitHub](https://github.com/Arthmoor/SmaugFUSS) |
