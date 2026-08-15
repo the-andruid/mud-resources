@@ -9,10 +9,10 @@ Useful guides and links for getting started with multi-user (MU*) games.
 
 New to multi-user (MU*) text games? These primers will help you get you started:
 
-- [What is a MUD?](https://writing-games.org/beginners-guide-to-multi-user-dungeons/) - Start here if you're new to MU* games
+- [Beginner's guide to playing MUDs](https://writing-games.org/beginners-guide-to-multi-user-dungeons/) - Start here if you're new to MU* games
 - [Introduction to MUD styles and player types](https://writing-games.org/mud-styles-and-player-types/) - Learn which kind of MU* is right for you
 - [Beginner's guide to roleplaying](https://writing-games.org/beginners-guide-to-roleplaying/) - Learn how to roleplay with text
-- [Immersive Roleplay 101](https://writing-games.org/immersive-roleplaying-guide/) - Level up your roleplay with some pro tips
+- [Immersive Roleplay 101](https://writing-games.org/immersive-roleplaying-guide/) - Level up your roleplay with these tips and ideas
 - [MUSH 101 - An Introduction to MUSHing](https://aresmush.com/mush-101) - Learn how to write collaboratively
 
 When you're ready, find some games to try:
