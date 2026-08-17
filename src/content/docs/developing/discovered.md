@@ -27,6 +27,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [MalifaxLax / megamoo](https://github.com/MalifaxLax/megamoo) | Server | 2026-08 | A from-scratch Python reimplementation of LambdaMOO; persistent multiplayer programmable text world; verbs are plain Python files run live against an object database; zero required dependencies |
 | [Michael-Garibaldi / Muddel](https://github.com/Michael-Garibaldi/Muddel) | Client | 2026-08 | Emacs MUD client |
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Client | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
+| [mpconley / MudletMCVP](https://github.com/mpconley/MudletMCVP) | Plugin | 2026-08 | Mudlet package implementing the MUD Client Vocabulary Protocol (Client.Vocabulary over GMCP); exposes merged vocabulary catalog via API and events for other packages |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
 | [oxigeon](https://github.com/OxigeonOS/oxigeon) | Driver | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go-based text MMO inspired by DikuMUD; skill-based progression, living economy, LLM-powered NPCs with memory; early development (M1 milestone) |
