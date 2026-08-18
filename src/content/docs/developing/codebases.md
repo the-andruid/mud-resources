@@ -28,6 +28,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [EnvyMUD](https://bartle.mudinstitute.org/codebases/codebase/22) | C | |
 | [Evennia](https://www.evennia.com/) | Python | [GitHub](https://github.com/evennia/evennia), example: [Mystavaria](https://writing-games.org/mystavaria-mud/) |
 | [ExVenture](https://exventure.readthedocs.io/en/latest/) | Elixir | [GitHub](https://github.com/oestrich/ex_venture) |
+| [fido](https://github.com/i-am-tanni/fido) | Odin | Experimental, early-stage MUD server |
 | [FluffOS](https://www.fluffos.info/) | C++ | [GitHub](https://github.com/fluffos/fluffos) |
 | [Fuzzball](https://www.fuzzball.org/) | C | TinyMUCK-derived MUCK server with in-world MUF/MPI scripting; [GitHub](https://github.com/fuzzball-muck/fuzzball), [MINK manual](https://fuzzball-muck.github.io/muckman/) |
 | [GodWars](https://bartle.mudinstitute.org/codebases/codebase/26) | C | |
@@ -51,6 +52,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [NiMUD](https://bartle.mudinstitute.org/codebases/codebase/23) | C | [GitHub](https://github.com/h3rb/nimud) |
 | [OpenRPI (Sebguer fork)](https://github.com/Sebguer/OpenRPI) | C | DikuMUD derivative used for the post-shutdown version of Shadows of Isildur. More recent fork with a bash script to get it running |
 | [OpenRPI (Ludlow)](https://github.com/stefanludlow/OpenRPI) | C | DikuMUD derivative, earlier release of the engine that powered the post-shutdown Shadows of Isildur |
+| [oxigeon](https://github.com/OxigeonOS/oxigeon) | Rust | Driver with LuaJIT scripting; handles networking, Telnet protocol, session management, and database while games are built in Lua |
 | [PennMUSH](https://web.archive.org/web/20220521122918/https://www.pennmush.org/) | C | [GitHub](https://github.com/pennmush/pennmush) |
 | [PyMUSH](https://pypi.org/project/pymush/#description) | Python | |
 | [Rivers of Mud](https://bartle.mudinstitute.org/codebases/codebase/24) | C | [ROM 2.4b6 QuickMUD GitHub](https://github.com/avinson/rom24-quickmud); see also the [Python port](https://github.com/Nostoi/rom24-quickmud-python) with a C-parity test suite |

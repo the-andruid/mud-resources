@@ -13,10 +13,10 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [BieXiang6 / mud-agent](https://github.com/BieXiang6/mud-agent) | Client | 2026-08 | Cross-platform client for Chinese MUD games with AI agent, reusable scripts, and native TCP; not a generic telnet client |
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Engine | 2026-07 | A MUD engine written in Rust |
 | [Compilable World Evennia Prototype](https://github.com/kakon77777-commits/CompilableWorld-Evennia-Prototype) | Tool | 2026-07 | AI-driven pipeline that converts novels or world bibles into validated, playable Evennia-based MUDs; now superseded, kept as a reference implementation |
+| [DaftPun / odin_mud](https://github.com/DaftPun/odin_mud) | Server | 2026-08 | A simple MUD server written in the Odin programming language |
 | [Discordanian / mudoxi](https://github.com/Discordanian/mudoxi) | Client | 2026-08 | A mud client written in Rust; uses the ratatui terminal UI library |
 | [ebony-rose / Mud-Server](https://github.com/ebony-rose/Mud-Server) | Server | 2026-08 | A Java MUD server aiming to be a general purpose framework; supports arbitrary exit names and a small MPI-like scripting system; unfinished but stable |
 | [ex_mush](https://github.com/wisq/ex_mush) | Server | 2026-07 | A rewrite of a MUSH server in Elixir |
-| [fido](https://github.com/i-am-tanni/fido) | Server | 2026-07 | An experimental MUD server written in Odin (i-am-tanni); brand new, early-stage |
 | [Fiztba / Wayfarer](https://github.com/Fiztba/Wayfarer) | Client | 2026-08 | MUD client with MXP, MSP sound, auto-mapper, gauges, and chat capture windows |
 | [fluffos-vscode](https://github.com/fluffos/fluffos-vscode) | Tool | 2026-07 | VS Code extension providing syntax highlighting, structural diagnostics, formatting, and real compiler errors for LPC via the FluffOS lpcc front-end; also ships a Compiler Explorer with source, tokens, AST, and bytecode views |
 | [GwenNelson / BlingMUD](https://github.com/GwenNelson/BlingMUD) | Engine | 2026-07 | A Python MUD engine using telnet only, built for small communities of 10 to 20 active users rather than heavy scaling |
@@ -29,7 +29,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Client | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [mpconley / MudletMCVP](https://github.com/mpconley/MudletMCVP) | Plugin | 2026-08 | Mudlet package implementing the MUD Client Vocabulary Protocol (Client.Vocabulary over GMCP); exposes merged vocabulary catalog via API and events for other packages |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
-| [oxigeon](https://github.com/OxigeonOS/oxigeon) | Driver | 2026-07 | A MUD driver written in Rust with LuaJIT scripting; handles networking, Telnet protocol, session management and database while games are built in Lua |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go-based text MMO inspired by DikuMUD; skill-based progression, living economy, LLM-powered NPCs with memory; early development (M1 milestone) |
 | [riotcore / mud-terminal-core](https://github.com/riotcore/mud-terminal-core) | Library | 2026-08 | C17 connection and terminal-protocol foundation for MUD servers; separates plain Telnet, Telnet-over-TLS-1.3, and SSH transports from application logic and exposes terminal capabilities (UTF-8, color depth, GMCP, OSC 8) instead of protocol details |
 | [SharpMUSH / MUIndex](https://github.com/SharpMUSH/MUIndex) | Website | 2026-07 | An information site for the MU* hobby (MUSHes, MUDs, MUCKs, MOOs) with data measured via continuous probing, not manually submitted |
