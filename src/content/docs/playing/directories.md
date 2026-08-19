@@ -21,6 +21,7 @@ Find a game to play:
 | [MOOList](https://moolist.com/) | Lists MOO (MUD, Object-Oriented) games specifically |
 | [MUDhalla Mud List](https://mudhalla.net/mudlist/) | More traditional list backed by MSSP crawling; classic look |
 | [Mudhaven](https://www.mudhaven.net) | MUD game directory |
+| [mu*index](https://mu-index.com/) | Directory of MUDs, MUSHes, MUCKs, and MOOs with status data from continuous probing rather than manual submissions; ~870 games, searchable by theme, codebase, or host |
 | [Best MUDs](https://bestmuds.com/) | Formerly MudListings; large directory of ~700 games with reviews and rankings |
 | [MUDVault](https://mudvault.org/) | Listings, ratings, code archives, dev tools, web client; read the [interview with Asmodeus](https://writing-games.org/mudvault/) |
 | [MudVerse](https://www.mudverse.com/) | Free directory and rankings for MUDs, MOOs, and MUSHes, with reviews and voting |
