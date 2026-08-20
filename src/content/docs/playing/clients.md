@@ -17,6 +17,7 @@ Clients you can download to your computer:
 | [Mallard](https://mallard.vnsf.xyz) | macOS, Win, Linux | Includes a plugin marketplace with a permission system, input autocompletion, and full-text log search |
 | [Mudlet](https://www.mudlet.org/) | Win, macOS, Linux | Fast and highly configurable with [accessibility features](https://writing-games.org/mudlet-accessibility-updates/) |
 | [MUSHclient](https://www.gammon.com.au/mushclient/mushclient.htm) | Win | Popular client for Win users |
+| [MushTato](https://github.com/N0NJY/mushtato) | Win, macOS, Linux | GUI client combining Potato's interface with TinyFugue-style triggers and macros, written in sandboxed Python; Telnet and SSH support |
 | [Potato](https://www.potatomushclient.com/) | Win, macOS, Linux | |
 | [QMud](https://www.qmud.dev/) | Win, macOS, Linux | Qt 6 continuation of MUSHclient, compatible with MUSHclient data files and plugins; [GitHub](https://github.com/Nodens-/QMud) |
 | [Rune](https://runemud.com/) | Win, macOS, Linux | Terminal client written in Go with Lua scripting; [GitHub](https://github.com/mmcdole/rune) |
