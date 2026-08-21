@@ -29,6 +29,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [moo-sh](https://github.com/ull-spec/moo-sh) | Client | 2026-07 | Native Electron desktop client for telnet-based MU*, MUSH, and MUD servers; multi-window layout with pages and channels; Linux-tested only |
 | [mpconley / MudletMCVP](https://github.com/mpconley/MudletMCVP) | Plugin | 2026-08 | Mudlet package implementing the MUD Client Vocabulary Protocol (Client.Vocabulary over GMCP); exposes merged vocabulary catalog via API and events for other packages |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
+| [MudletSTT](https://github.com/mpconley/MudletSTT) | Plugin | 2026-08 | Speech-to-text plugin for Mudlet; toggles microphone, routes speech to the command line, corrects words against game vocabulary (MCVP) |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go-based text MMO inspired by DikuMUD; skill-based progression, living economy, LLM-powered NPCs with memory; early development (M1 milestone) |
 | [riotcore / mud-terminal-core](https://github.com/riotcore/mud-terminal-core) | Library | 2026-08 | C17 connection and terminal-protocol foundation for MUD servers; separates plain Telnet, Telnet-over-TLS-1.3, and SSH transports from application logic and exposes terminal capabilities (UTF-8, color depth, GMCP, OSC 8) instead of protocol details |
 | [SharpMUSH / MUIndex](https://github.com/SharpMUSH/MUIndex) | Website | 2026-07 | An information site for the MU* hobby (MUSHes, MUDs, MUCKs, MOOs) with data measured via continuous probing, not manually submitted |
@@ -65,6 +66,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [SwiftZer0 / AardForge](https://github.com/SwiftZer0/AardForge) | Plugin | 2026-08 | MudForge plugins for Aardwolf; a GMCP hub plugin and a room occupant panel showing players, NPCs and objects present |
 | [taskweft / crucible-rfd](https://github.com/taskweft/crucible-rfd) | Docs | 2026-07 | Requests for Discussion documents for Crucible, a playable MUD with deterministic NPCs and an LLM-capable evaluation mode; covers transport, world design, architecture, and NPC domain planning |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Tool | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS-compatible telemetry; pre-implementation, contract and fixture phase |
+| [v9-Control-for-MudBringer](https://github.com/valkesorcio/v9-Control-for-MudBringer) | Plugin | 2026-08 | Script pack for the MudBringer client adding multiplay commands, whitelist and role groups, and optional status bar/dashboard modules for coordinating multiple game sessions |
 | [WuxiaGo](https://github.com/ccubed/WuxiaGo) | Game | 2026-07 | A wuxia-themed MUD server built on the GoMud engine in Go; includes a playable default world and web-based admin tools |
 
 ## Platforms
