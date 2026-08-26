@@ -36,6 +36,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [smudgeon](https://github.com/smudgy-mud/smudgeon) | Tool | 2026-07 | A deliberately hostile MUD test server; feeds clients malformed telnet/ANSI input to probe for screen corruption and memory exhaustion |
 | [taranion / libmxp](https://github.com/taranion/libmxp) | Library | 2026-08 | Java library implementing the MUD eXtension Protocol (MXP) |
 | [taranion / MUDEventQueue](https://github.com/taranion/MUDEventQueue) | Library | 2026-08 | Java library that reads and writes Telnet and ANSI data as event streams |
+| [tehmud](https://github.com/craigske/tehmud) | Docs | 2026-08 | MUD for phones; server holds authored facts, on-device small model generates each player's prose locally; design phase, no code yet |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Engine | 2026-07 | Early-stage Chinese-language MUD game engine using event-driven and component-based entity architecture; currently version 0.1.0 with only version-check command functional |
 | [zefir6 / mush-gateway](https://github.com/zefir6/mush-gateway) | Tool | 2026-07 | A persistent proxy/bouncer for PennMUSH sessions; keeps the connection alive, mirrors traffic to multiple clients, logs sessions to disk |
 
@@ -47,6 +48,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [burner](https://github.com/jbosse/burner) | Game | 2026-07 | A mobile-first Phoenix LiveView MUD about superheroes in Midtown Manhattan; includes onboarding with codenames and powers, a 28-room city area, subway travel, spawned street crimes, round-based combat, and diegetic phone messaging |
 | [ccubed / CozyMud](https://github.com/ccubed/CozyMud) | Game | 2026-07 | A MUD game built on the GoMud engine; focuses on stories and provenance rather than combat and levels |
 | [Desedaft-Dev / Triad3ds](https://github.com/Desedaft-Dev/Triad3ds) | Client | 2026-08 | A Nintendo 3DS homebrew telnet client for TriadCity MUD; includes a stats display and keybinds for navigation |
+| [dr-companion](https://github.com/dancockrell/dr-companion) | Tool | 2026-08 | Desktop control panel for DragonRealms; sends high-level intents to a Lich automation script over a local WebSocket; built with Tauri 2 and React |
 | [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Archive | 2026-07 | Personal archive of LPC mudlib code written for End of the Line (EOTL), a specific MUD, circa 2013; preserved as a historical snapshot not intended to run as-is |
 | [FesterHead / aardwolf-mud-stuff](https://github.com/FesterHead/aardwolf-mud-stuff) | Plugin | 2026-08 | MUSHclient plugins, Lua scripts, and utilities built specifically for Aardwolf MUD |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Tool | 2026-07 | A file transfer and immort editor system for Final Realms: Legacy that lets builders push and pull files over a normal creator login without FTP |
@@ -58,11 +60,13 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [marcigaglia / InnsmouthMUD](https://github.com/marcigaglia/InnsmouthMUD) | Game | 2026-08 | Telegram bot running a Lovecraftian horror MUD-style adventure narrated by Claude AI; deploys to Railway with commands like /look and /inventory |
 | [mud.russross.com](https://github.com/russross/mud.russross.com) | Website | 2026-07 | Highlands 3 MUD data pipeline and web app; proxy captures game data, scripts normalize it, serves an equipment catalog and recommendations |
 | [Rakurai / legacy-evennia](https://github.com/Rakurai/legacy-evennia) | Game | 2026-08 | A reimagining of the Legacy MUD, built on the Evennia framework; includes the game directory, docs, specs, and build scripts for that specific game |
+| [rparrett / mudmud-test-mud](https://github.com/rparrett/mudmud-test-mud) | Tool | 2026-08 | Ephemeral Python MUD server for exercising MUD clients; tests telnet negotiation including EOR, MSDP, MCCP2/3 and edge cases like malformed UTF-8 |
 | [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Plugin | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [SeanStoves / aardkit](https://github.com/SeanStoves/aardkit) | Plugin | 2026-08 | Mudlet modules for the Aardwolf MUD; includes session logging, an info window, stat monitor, recall manager and area map explorer |
 | [SilmarilMud / editit](https://github.com/SilmarilMud/editit) | Tool | 2026-08 | Area editor for Silmaril MUD |
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Server | 2026-07 | A Python implementation of a world server node for The Hollow Grid federated MUD network, porting the world half of the TypeScript reference implementation |
 | [Solvely-Colin / Aardwolf-Mud](https://github.com/Solvely-Colin/Aardwolf-Mud) | Plugin | 2026-08 | MUSHclient and MudForge plugins for Aardwolf MUD; includes a boot promotion tracker and an inventory manager |
+| [Summer-MUD](https://github.com/MayC1337/Summer-MUD) | Game | 2026-08 | Text based single player MUD simulating a Chinese high school senior's final month before the college entrance exam; C++ university course project |
 | [SwiftZer0 / AardForge](https://github.com/SwiftZer0/AardForge) | Plugin | 2026-08 | MudForge plugins for Aardwolf; a GMCP hub plugin and a room occupant panel showing players, NPCs and objects present |
 | [taskweft / crucible-rfd](https://github.com/taskweft/crucible-rfd) | Docs | 2026-07 | Requests for Discussion documents for Crucible, a playable MUD with deterministic NPCs and an LLM-capable evaluation mode; covers transport, world design, architecture, and NPC domain planning |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Tool | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS-compatible telemetry; pre-implementation, contract and fixture phase |

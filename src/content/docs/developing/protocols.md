@@ -22,6 +22,7 @@ Miscellaneous tools useful for MU* development:
 
 - [codemirror-lambdamoo](https://github.com/kruton/codemirror-lambdamoo) - CodeMirror language support for LambdaMOO
 - [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
+- [evennia-archive](https://github.com/FullCircleMUD/evennia-archive) - Archives player accounts and characters to a separate database so an Evennia world can be rebuilt from source without losing player data (Python)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
 - [moo-lsp-rs](https://github.com/kruton/moo-lsp-rs) - Language server for LambdaMOO

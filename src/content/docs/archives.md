@@ -71,6 +71,7 @@ Filmed histories and video essays, both on the era itself and on the games still
 
 - [Exile in MUDville: Why Text-Based Online Gaming Refuses to Die](https://www.youtube.com/watch?v=c3C_uzN6M94) - This Exists video essay (2024) on why MUDs endure decades after flashier successors arrived; a 19-minute look at the scene as it is today
 - [The History & Evolution of Massively Multiplayer Games](https://www.youtube.com/watch?v=kHu709a0sp0) - Noclip documentary (2026) with Raph Koster (LegendMUD, Ultima Online) tracing massively multiplayer games from their MUD roots; a 22-minute overview of how MUDs shaped the genre
+- [Welcome to the World of Computer Games: a MUD1 documentary](https://www.youtube.com/watch?v=7V6wzFmyLmE) - The Lawn Con's documentary on the creation of MUD1 and the early history of computer games
 
 ## Developer & community archives
 
