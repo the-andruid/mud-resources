@@ -37,3 +37,4 @@ Miscellaneous tools useful for MU* development:
 
 - [Awesome MUDs](https://github.com/maldorne/awesome-muds) - Curated list of MUD codebases, libraries, and other links
 - [Improving Heuristics](https://www.redblobgames.com/pathfinding/heuristics/differential.html) - Amit Patel's interactive Red Blob Games tutorial on speeding up A* pathfinding with landmark-based differential heuristics; handy for speedwalking and NPC movement over room graphs
+- [The Skotos Proximity System](https://www.skotos.net/articles/proximitysystem.html) - Design spec for sub-room spatial positioning; potentially useful for other devs looking to do something similar
