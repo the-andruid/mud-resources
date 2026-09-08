@@ -53,6 +53,7 @@ Serial publications from and about the community, spanning the late-'90s e-zine 
 
 Conversations and conference talks with the people who built the first virtual worlds, in podcast, video, and transcript form.
 
+- [Before World of Warcraft, There Was MUD](https://www.youtube.com/watch?v=xw27N08xtQg) (The Party Is Full) - Richard Bartle interview on MUD's origins and its influence on later online games
 - [Creating Virtual Worlds with Richard Bartle](https://www.professorgame.com/podcast/034/) (Professor Game) - Podcast episode on MUD's origins and the player-type taxonomy
 - [Free for All: Interviewing Achaea's Matt Mihaly for MUD May](https://www.engadget.com/2013-05-29-free-for-all-interviewing-achaeas-matt-mihaly-for-mud-may.html) (Engadget, 2013) - Mihaly on the state and future of commercial text MUDs
 - [The Game Archaeologist Crosses Meridian 59: An Interview with Brian Green](https://www.engadget.com/2011-12-20-the-game-archaeologist-crosses-meridian-59-an-interview-with-br.html) (Engadget, 2011) - Green on his MUD roots and carrying MUD design into Meridian 59

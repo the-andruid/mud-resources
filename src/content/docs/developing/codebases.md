@@ -25,6 +25,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [DikuMUD3](https://wiki.dikumud.com/wiki/DikuMUD) | C++ | [GitHub](https://github.com/Seifert69/DikuMUD3) |
 | [DGD](https://bartle.mudinstitute.org/codebases/codebase/19) | C | Dworkin's Game Driver, in-game scripting in LPC |
 | [DjangoMOO](https://gitlab.com/bubblehouse/django-moo) | Python | "LambdaMOO on Django"; sandboxed in-world Python verbs; [Docs](https://django-moo.readthedocs.io/), [GitHub mirror](https://github.com/bubblehouse/django-moo) |
+| [ebony-rose/Mud-Server](https://github.com/ebony-rose/Mud-Server) | Java | General purpose framework; unfinished but stable |
 | [EnvyMUD](https://bartle.mudinstitute.org/codebases/codebase/22) | C | |
 | [Evennia](https://www.evennia.com/) | Python | [GitHub](https://github.com/evennia/evennia), example: [Mystavaria](https://writing-games.org/mystavaria-mud/) |
 | [ExVenture](https://exventure.readthedocs.io/en/latest/) | Elixir | [GitHub](https://github.com/oestrich/ex_venture) |
@@ -38,6 +39,7 @@ Various game engines, the primary languages they were written in, and links to r
 | [LDMud](https://www.ldmud.eu/) | C | [GitHub](https://github.com/ldmud/ldmud) |
 | [lore](https://github.com/i-am-tanni/lore) | Gleam | MUD server written in Gleam |
 | [Magma](https://github.com/Xangis/magma) | C, C++ | |
+| [megamoo](https://github.com/MalifaxLax/megamoo) | Python | From-scratch reimplementation of LambdaMOO; verbs are plain Python files run live against an object database |
 | [Merc](https://bartle.mudinstitute.org/codebases/codebase/mercmud) | C | [Merc 2.1 GitHub](https://github.com/alexmchale/merc-mud) |
 | [ModernMUD](https://github.com/Xangis/ModernMUD) | C# | |
 | [mooR](https://timbran.org/moor.html) | Rust | [Codeberg](https://codeberg.org/timbran/moor) |
