@@ -25,11 +25,16 @@ Miscellaneous tools useful for MU* development:
 - [evennia-archive](https://github.com/FullCircleMUD/evennia-archive) - Archives player accounts and characters to a separate database so an Evennia world can be rebuilt from source without losing player data (Python)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
+- [lambdamoo-code-mode](https://github.com/kruton/lambdamoo-code-mode) - Emacs major mode for editing LambdaMOO verb code
 - [moo-lsp-rs](https://github.com/kruton/moo-lsp-rs) - Language server for LambdaMOO
+- [mudclient-test-server](https://github.com/Cryosphere-MUD/mudclient-test-server) - Menu-based test server for exercising MUD client protocol corner cases (Python)
+- [MUDEventQueue](https://github.com/taranion/MUDEventQueue) - Java library that reads and writes Telnet and ANSI data as event streams
 - [mudlet-map-editor](https://delwing.github.io/mudlet-map-editor/) - Browser-based visual editor for Mudlet `.dat` map files; load, edit, and export maps with no install
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
 - [mushy-peas](https://github.com/ctoth/mushy-peas) - Python toolkit for reading, writing, inspecting, and round-tripping PennMUSH database files
+- [nvim-lambdamoo](https://github.com/kruton/nvim-lambdamoo) - Neovim plugin for editing LambdaMOO verbs and objects through a virtual filesystem, works with any LambdaMOO instance over WebDAV
+- [tree-sitter-lambdamoo](https://github.com/kruton/tree-sitter-lambdamoo) - Tree-sitter grammar and parser for the LambdaMOO scripting language
 - [ttyscan](https://github.com/jquast/ttyscan) - Queries a terminal emulator for its type, size, and capabilities via XTGETTCAP
 - [vscode-lambdamoo](https://github.com/kruton/vscode-lambdamoo) - VS Code language support extension for LambdaMOO
 
