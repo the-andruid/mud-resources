@@ -32,6 +32,7 @@ Miscellaneous tools useful for MU* development:
 - [mudlet-map-editor](https://delwing.github.io/mudlet-map-editor/) - Browser-based visual editor for Mudlet `.dat` map files; load, edit, and export maps with no install
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
+- [mush_windows](https://github.com/skrambelled/mush_windows) - MUSHclient plugin library providing shared window chrome (drag, resize, minimize/maximize/close, edge snapping) for other plugins to build on (Lua)
 - [mushy-peas](https://github.com/ctoth/mushy-peas) - Python toolkit for reading, writing, inspecting, and round-tripping PennMUSH database files
 - [nvim-lambdamoo](https://github.com/kruton/nvim-lambdamoo) - Neovim plugin for editing LambdaMOO verbs and objects through a virtual filesystem, works with any LambdaMOO instance over WebDAV
 - [tree-sitter-lambdamoo](https://github.com/kruton/tree-sitter-lambdamoo) - Tree-sitter grammar and parser for the LambdaMOO scripting language
