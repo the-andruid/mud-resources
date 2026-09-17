@@ -64,6 +64,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [KMuddy](https://github.com/KDE/kmuddy) | |
 | [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
 | [Mudlet](https://github.com/Mudlet/Mudlet) | |
+| [mudoxi](https://github.com/Discordanian/mudoxi) | Terminal MUD client written in Rust |
 | [Mudpie](https://github.com/aaron-gh/mudpie-releases/releases) | Android client, apk on GitHub |
 | [MUDWammer](https://github.com/ncmud/Wammer?tab=readme-ov-file) | Mobile, still in development |
 | [Savitar 1.4.0 source](https://github.com/jkoutavas/savitar140) | Original v1.x macOS MUSH client source |
