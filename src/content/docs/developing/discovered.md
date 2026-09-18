@@ -33,8 +33,10 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [MacMUSH-Swift](https://github.com/robduf/MacMUSH-Swift) | Client | 2026-07 | A native macOS MUD client written in Swift; early MVP |
 | [Michael-Garibaldi / Muddel](https://github.com/Michael-Garibaldi/Muddel) | Client | 2026-08 | Emacs MUD client |
 | [model-moo](https://github.com/cnicholson-dev/model-moo) | Game | 2026-08 | A MOO-style world built and inhabited autonomously by a local Ollama model |
+| [MUD (cronix1000)](https://github.com/cronix1000/MUD) | Server | 2026-09 | Multi-process MUD monorepo with a C++ ECS server, Python WebSocket gateway, and Nuxt browser client and admin UI |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
 | [MudletSTT](https://github.com/mpconley/MudletSTT) | Plugin | 2026-08 | Speech-to-text plugin for Mudlet; corrects misheard words against the game's own vocabulary |
+| [PixelMUD (Keranik)](https://github.com/Keranik/PixelMUD) | Server | 2026-09 | C# .NET 8 port of ROM 2.4 / QuickMUD; ships stock QuickMUD areas so a fresh clone boots, and classic telnet clients still connect |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go text MMO inspired by DikuMUD, with LLM-powered NPCs; early development |
 | [riotcore / mud-terminal-core](https://github.com/riotcore/mud-terminal-core) | Library | 2026-08 | C17 connection layer for MUD servers; keeps telnet, TLS, and SSH handling out of the game code |
 | [RustMUD](https://github.com/Fiztba/RustMUD) | Server | 2026-09 | Rust rewrite of tbaMUD; keeps the original's commands, OLC, DG Scripts, and area files |
