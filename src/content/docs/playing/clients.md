@@ -67,6 +67,8 @@ Available on GitHub in various forms (not recommended for beginners):
 | [mudoxi](https://github.com/Discordanian/mudoxi) | Terminal MUD client written in Rust |
 | [Mudpie](https://github.com/aaron-gh/mudpie-releases/releases) | Android client, apk on GitHub |
 | [MUDWammer](https://github.com/ncmud/Wammer?tab=readme-ov-file) | Mobile, still in development |
+| [OMnimud](https://github.com/kastwey/omnimud) | |
+| [Python MUD Client](https://github.com/brandishedarts85/Python-Mud-Client) | |
 | [Savitar 1.4.0 source](https://github.com/jkoutavas/savitar140) | Original v1.x macOS MUSH client source |
 | [SharpClient](https://github.com/SharpMUSH/SharpClient) | .NET MAUI Blazor Hybrid client for connecting to MUSH/MUD servers over telnet |
 | [Wayfarer](https://github.com/Fiztba/Wayfarer) | Windows client with MXP, MSP sound, and an auto-mapper; installer on the releases page |

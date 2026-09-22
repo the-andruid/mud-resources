@@ -31,6 +31,7 @@ Miscellaneous tools useful for MU* development:
 - [MUDEventQueue](https://github.com/taranion/MUDEventQueue) - Java library that reads and writes Telnet and ANSI data as event streams
 - [mudlet-map-editor](https://delwing.github.io/mudlet-map-editor/) - Browser-based visual editor for Mudlet `.dat` map files; load, edit, and export maps with no install
 - [MudletMCVP](https://github.com/mpconley/MudletMCVP) - Mudlet package implementing the MUD Client Vocabulary Protocol (MCVP) over GMCP (Lua)
+- [MudletSTT](https://github.com/mpconley/MudletSTT) - Speech-to-text plugin for Mudlet; corrects misheard words against the game's own vocabulary (Lua)
 - [mudmux](https://github.com/taedlar/mudmux) - Transport-layer host/multiplexer that sits in front of a generic MUD server
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
 - [mush_windows](https://github.com/skrambelled/mush_windows) - MUSHclient plugin library providing shared window chrome (drag, resize, minimize/maximize/close, edge snapping) for other plugins to build on (Lua)
