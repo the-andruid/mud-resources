@@ -36,6 +36,7 @@ Miscellaneous tools useful for MU* development:
 - [mush-map-editor](https://github.com/StoiaCode/mush-map-editor) - Map editor for MUSH/MU*
 - [mush_windows](https://github.com/skrambelled/mush_windows) - MUSHclient plugin library providing shared window chrome (drag, resize, minimize/maximize/close, edge snapping) for other plugins to build on (Lua)
 - [mushy-peas](https://github.com/ctoth/mushy-peas) - Python toolkit for reading, writing, inspecting, and round-tripping PennMUSH database files
+- [nelib](https://github.com/ayder/nelib) - Library and CLI for mapping non-Euclidean MUD rooms; tracks compass and vertical connections in both directions (Go)
 - [nvim-lambdamoo](https://github.com/kruton/nvim-lambdamoo) - Neovim plugin for editing LambdaMOO verbs and objects through a virtual filesystem, works with any LambdaMOO instance over WebDAV
 - [tree-sitter-lambdamoo](https://github.com/kruton/tree-sitter-lambdamoo) - Tree-sitter grammar and parser for the LambdaMOO scripting language
 - [ttyscan](https://github.com/jquast/ttyscan) - Queries a terminal emulator for its type, size, and capabilities via XTGETTCAP
