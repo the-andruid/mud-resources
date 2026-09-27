@@ -79,6 +79,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [LuminariMUD / luminariweb](https://github.com/LuminariMUD/luminariweb) | Client | 2026-07 | Browser client for LuminariMUD-compatible games; bridges to telnet and drives its display from MSDP |
 | [marcigaglia / InnsmouthMUD](https://github.com/marcigaglia/InnsmouthMUD) | Game | 2026-08 | Telegram bot running a Lovecraftian horror MUD-style adventure narrated by Claude |
 | [mudlet-packages](https://github.com/Ailoman/mudlet-packages) | Plugin | 2026-08 | Mudlet package collection for Icesus MUD |
+| [Nindomud](https://github.com/Biran1988/Nindomud) | Server | 2026-09 | Naruto-inspired multiplayer text RPG in Python with SMAUG-style builder commands and jutsu-based combat |
 | [Rakurai / legacy-evennia](https://github.com/Rakurai/legacy-evennia) | Game | 2026-08 | A reimagining of the Legacy MUD, built on Evennia |
 | [Rites-of-Passage-The-Keystone](https://github.com/WickedMediaSolutions/Rites-of-Passage-The-Keystone) | Server | 2026-09 | Server codebase for the MUD Rites of Passage: The Keystone, built on Evennia |
 | [rparrett / mudmud-test-mud](https://github.com/rparrett/mudmud-test-mud) | Tool | 2026-08 | Ephemeral Python MUD server for testing how a client handles telnet, including malformed input |

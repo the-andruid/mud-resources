@@ -27,6 +27,7 @@ Miscellaneous tools useful for MU* development:
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
 - [lambdamoo-code-mode](https://github.com/kruton/lambdamoo-code-mode) - Emacs major mode for editing LambdaMOO verb code
 - [moo-lsp-rs](https://github.com/kruton/moo-lsp-rs) - Language server for LambdaMOO
+- [MUDBOX](https://mudbox.frenzykitty.workers.dev/) - MUD mapping and dialog tool
 - [mudclient-test-server](https://github.com/Cryosphere-MUD/mudclient-test-server) - Menu-based test server for exercising MUD client protocol corner cases (Python)
 - [MUDEventQueue](https://github.com/taranion/MUDEventQueue) - Java library that reads and writes Telnet and ANSI data as event streams
 - [mudlet-map-editor](https://delwing.github.io/mudlet-map-editor/) - Browser-based visual editor for Mudlet `.dat` map files; load, edit, and export maps with no install
