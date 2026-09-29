@@ -39,6 +39,8 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [model-moo](https://github.com/cnicholson-dev/model-moo) | Game | 2026-08 | A MOO-style world built and inhabited autonomously by a local Ollama model |
 | [MUD (cronix1000)](https://github.com/cronix1000/MUD) | Server | 2026-09 | Multi-process MUD monorepo with a C++ ECS server, Python WebSocket gateway, and Nuxt browser client and admin UI |
 | [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
+| [NexMUD-client](https://github.com/ymek/NexMUD-client) | Client | 2026-09 | Avalonia-based MUD client in C#; recent releases focus heavily on transcript typography and terminal grid rendering |
+| [PICO-MUD](https://github.com/HendrikPetertje/PICO-MUD) | Server | 2026-09 | LambdaMOO-like text MUD server running natively on a Raspberry Pi Pico 2 W, hosting its own Wi-Fi hotspot and telnet server |
 | [PixelMUD (Keranik)](https://github.com/Keranik/PixelMUD) | Server | 2026-09 | C# .NET 8 port of ROM 2.4 / QuickMUD; ships stock QuickMUD areas so a fresh clone boots, and classic telnet clients still connect |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go text MMO inspired by DikuMUD, with LLM-powered NPCs; early development |
 | [riotcore / mud-terminal-core](https://github.com/riotcore/mud-terminal-core) | Library | 2026-08 | C17 connection layer for MUD servers; keeps telnet, TLS, and SSH handling out of the game code |
@@ -70,7 +72,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [dr-companion](https://github.com/dancockrell/dr-companion) | Tool | 2026-08 | Desktop control panel for the DragonRealms Lich automation script |
 | [dr-genie-settings](https://github.com/dancockrell/dr-genie-settings) | Plugin | 2026-08 | Highlights and sounds config for a new DragonRealms character on the Genie 4 client |
 | [drewp2022 / nomad-dungeon](https://github.com/drewp2022/nomad-dungeon) | Game | 2026-09 | Persistent multiplayer fantasy dungeon game for NomadNet, using each player's LXMF address as their permanent ID |
-| [EOTL-MUD](https://github.com/BunnyGunGames/EOTL-MUD) | Archive | 2026-07 | Personal archive of LPC mudlib code from End of the Line (EOTL), circa 2013; a snapshot, not meant to run as-is |
 | [extendedresearch / foundation](https://github.com/extendedresearch/foundation) | Library | 2026-09 | Shared Rust crate for extendedresearch projects |
 | [FesterHead / aardwolf-mud-stuff](https://github.com/FesterHead/aardwolf-mud-stuff) | Plugin | 2026-08 | MUSHclient plugins and utilities for Aardwolf |
 | [frsync](https://github.com/Espen-PublAI/frsync) | Tool | 2026-07 | File transfer and editor system for the MUD Final Realms: Legacy |
