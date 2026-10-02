@@ -74,6 +74,7 @@ Filmed histories and video essays, both on the era itself and on the games still
 - [The History & Evolution of Massively Multiplayer Games](https://www.youtube.com/watch?v=kHu709a0sp0) - Noclip documentary (2026) with Raph Koster (LegendMUD, Ultima Online) tracing massively multiplayer games from their MUD roots; a 22-minute overview of how MUDs shaped the genre
 - [This Man Basically Invented MMOs](https://www.youtube.com/watch?v=cCBE6WUb8X8) - What We Did Before video essay (2026) on MUD's creation and its influence on the online games that followed
 - [Welcome to the World of Computer Games: a MUD1 documentary](https://www.youtube.com/watch?v=7V6wzFmyLmE) - The Lawn Con's documentary on the creation of MUD1 and the early history of computer games
+- [Worlds of Words: The History of MUDs, Before MMORPGs Existed](https://www.youtube.com/watch?v=XLO7nP0TUF4) - Midgard MUD channel video (2026) on the history of MUDs before MMORPGs
 
 ## Developer & community archives
 

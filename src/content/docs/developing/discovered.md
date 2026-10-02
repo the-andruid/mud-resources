@@ -72,9 +72,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [dr-companion](https://github.com/dancockrell/dr-companion) | Tool | 2026-08 | Desktop control panel for the DragonRealms Lich automation script |
 | [dr-genie-settings](https://github.com/dancockrell/dr-genie-settings) | Plugin | 2026-08 | Highlights and sounds config for a new DragonRealms character on the Genie 4 client |
 | [drewp2022 / nomad-dungeon](https://github.com/drewp2022/nomad-dungeon) | Game | 2026-09 | Persistent multiplayer fantasy dungeon game for NomadNet, using each player's LXMF address as their permanent ID |
-| [extendedresearch / foundation](https://github.com/extendedresearch/foundation) | Library | 2026-09 | Shared Rust crate for extendedresearch projects |
 | [FesterHead / aardwolf-mud-stuff](https://github.com/FesterHead/aardwolf-mud-stuff) | Plugin | 2026-08 | MUSHclient plugins and utilities for Aardwolf |
-| [frsync](https://github.com/Espen-PublAI/frsync) | Tool | 2026-07 | File transfer and editor system for the MUD Final Realms: Legacy |
 | [FullCircleMUD / evennia-logging-extension](https://github.com/FullCircleMUD/evennia-logging-extension) | Library | 2026-09 | Logging shim for Evennia libraries that must log before the reactor starts; scaffold only, no code yet |
 | [hollow-grid-c](https://github.com/skyphusion-labs/hollow-grid-c) | Server | 2026-07 | C world-server node for The Hollow Grid federated MUD network |
 | [Ixliam / wotl-mud](https://github.com/Ixliam/wotl-mud) | Game | 2026-08 | Heavily modified Dawn of Time 1.69r codebase for the MUD Whispers of Times Lost |
