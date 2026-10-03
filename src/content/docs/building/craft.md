@@ -19,4 +19,4 @@ Tools and references for designing rooms, areas, and player experiences in multi
 
 ## Additional resources
 
-- [MUDs.Fandom.com](https://muds.fandom.com/wiki/Main_Page) - Community wiki with a vast collection of game listings, articles, and resources, though many of them outdated
+- [MUDs.Fandom.com](https://muds.fandom.com/wiki/Main_Page) - Community wiki with a vast collection of game listings, articles, and resources, though many of them are outdated

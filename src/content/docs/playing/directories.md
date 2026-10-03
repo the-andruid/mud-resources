@@ -14,10 +14,10 @@ Find a game to play:
 | [AresCentral Games Directory](https://arescentral.aresmush.com/games) | Public AresMUSH games (roleplay and storytelling); browse by genre and status |
 | [IGDB (MUD category)](https://www.igdb.com/categories/multi-user-dungeon) | The mainstream game database's MUD category, not a MUD-specific list |
 | [IPTIA BBS/MUD Server List](https://www.ipingthereforeiam.com/bbs/) | Retro directory of BBS and MUD servers worldwide |
-| [Evennia Games Index](http://games.evennia.com) | Index of Evennia (Python) games, which tend to be bespoke |
+| [Evennia Games Index](http://games.evennia.com) | Index of games built on Evennia engine, which tend to be bespoke |
 | [GameScry](https://game-scry.online/browse/mud/?ord=popular) | Indie game catalog with filters (genre, engine, language); not MUD-only |
 | [Grapevine](https://grapevine.haus/) | Friendly MUD directory with the basics |
-| [LociTerm](https://lociterm.com/) | Browser-based MUD client that also lists active games by recent activity |
+| [LociTerm](https://lociterm.com/) | Browser-based MUD client that also lists games by recent activity |
 | [MOOList](https://moolist.com/) | Lists MOO (MUD, Object-Oriented) games specifically |
 | [MUDhalla Mud List](https://mudhalla.net/mudlist/) | More traditional list backed by MSSP crawling; classic look |
 | [Mudhaven](https://www.mudhaven.net) | MUD game directory |
@@ -34,7 +34,7 @@ Server stats, crawlers, and census data. Each tracker uses a different method (M
 
 | Source | Notes |
 | --- | --- |
-| [Iberia's MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist) | Broad MSSP crawl; created to fill the gap when MUDStats went offline for a few months, so it covers essentially the same ground |
+| [Iberia's MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist) | Broad MSSP crawl; originally created to fill the gap when MUDStats went offline for a few months |
 | [MUDhalla MSSP Crawler](https://mudhalla.net/tintin/protocols/mssp/mudlist.html) | MSSP crawler from the TinTin++/MUDhalla project |
 | [MUDStats](https://mudstats.com/) | Broad MSSP crawl tracking live and historical player counts across MUD/MUSH/MOO and more |
 | [MudVault Stats](https://mudvault.org/stats) | Covers MudVault's curated subset (~90 MUDs), so its totals run lower than the broad crawlers |

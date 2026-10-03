@@ -3,11 +3,11 @@ title: Codebases & Repositories
 description: MUD codebases and repositories across many languages such as C, C++, Python, Ruby, Go, Rust, Elixir, JavaScript, and more.
 ---
 
-MU\* game engines (AKA "codebases") in various programming languages. If what you actually want is a single-player text adventure, see [Interactive Fiction](/interactive-fiction/) - MU\* engines are often overkill for solo games.
+MU\* game engines (AKA "codebases") in various programming languages. If what you actually want is a single-player text adventure, see [Interactive Fiction](/interactive-fiction/), as MU\* engines are often overkill for solo games.
 
 ## Game engines
 
-Various game engines, the primary languages they were written in, and links to repos where available:
+Various game engines, the primary languages they're written in, and links to repos where available:
 
 | Codebase | Language | Notes |
 | --- | --- | --- |

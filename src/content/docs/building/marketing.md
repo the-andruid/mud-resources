@@ -3,7 +3,7 @@ title: Marketing & Retention
 description: Andruid's advice on marketing your text-based game, retaining players, building help systems, and rewarding player feedback.
 ---
 
-How to grow your playerbase, keep players engaged, and turn their feedback into a better game.
+How to grow your playerbase, keep players engaged, and turn their feedback into a better game/experience.
 
 ## Marketing
 

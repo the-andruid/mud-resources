@@ -7,7 +7,7 @@ Recommended reading for players and game designers.
 
 ## Research & reports
 
-- [2026 State of the Niche Report](https://writing-games.org/2026-state-of-the-niche-report/) by Andruid - A recent survey of 259 people in the MU* hobby, with analysis of their concerns and positives
+- [2026 State of the Niche Report](https://writing-games.org/2026-state-of-the-niche-report/) by Andruid - A recent survey of 259 people in the MU* hobby, with analysis of their concerns
 
 ## Online articles
 
@@ -16,5 +16,5 @@ Recommended reading for players and game designers.
 
 ## Books
 
-- [*The Art of Game Design: A Book of Lenses*](https://www.goodreads.com/book/show/3396933-the-art-of-game-design) by Jesse Schell
-- [*Designing Games: A Guide to Engineering Experiences*](https://www.goodreads.com/book/show/16144499-designing-games) by Tynan Sylvester
+- [*The Art of Game Design: A Book of Lenses*](https://www.goodreads.com/book/show/3396933-the-art-of-game-design) by Jesse Schell - recommended by Lucien in his [interview about AwakeMUD CE](https://writing-games.org/awakemud-shadowrun-text-game/)
+- [*Designing Games: A Guide to Engineering Experiences*](https://www.goodreads.com/book/show/16144499-designing-games) by Tynan Sylvester - recommended by Tat, creator of [Shattered MUSH](https://writing-games.org/shattered-mu/)

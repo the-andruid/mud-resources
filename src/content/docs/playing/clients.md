@@ -3,7 +3,7 @@ title: MUD Clients
 description: Downloadable, browser-based, mobile, and open-source clients for MU*.
 ---
 
-Various clients you can use to play multi-user (MU\*) games. For single-player text games, see [Interactive Fiction](/interactive-fiction/) - it has its own ecosystem of players and authoring tools.
+Various clients you can use to play multi-user (MU\*) games.
 
 ## Downloadable
 
@@ -16,7 +16,7 @@ Clients you can download to your computer:
 | [KildClient](https://kildclient.org) | Win, Linux | GTK-based client with a built-in Perl interpreter and automapper |
 | [Mallard](https://mallard.vnsf.xyz) | macOS, Win, Linux | Includes a plugin marketplace with a permission system, input autocompletion, and full-text log search |
 | [Mudlet](https://www.mudlet.org/) | Win, macOS, Linux | Fast and highly configurable with [accessibility features](https://writing-games.org/mudlet-accessibility-updates/) |
-| [MUSHclient](https://www.gammon.com.au/mushclient/mushclient.htm) | Win | Popular client for Win users |
+| [MUSHclient](https://www.gammon.com.au/mushclient/mushclient.htm) | Win | Popular client for Windows users |
 | [MushTato](https://github.com/N0NJY/mushtato) | Win, macOS, Linux | GUI client combining Potato's interface with TinyFugue-style triggers and macros, written in sandboxed Python; Telnet and SSH support |
 | [NukeFire](https://nukefire.org/client) | Win, macOS, Linux | Official client for the NukeFire MUD |
 | [Potato](https://www.potatomushclient.com/) | Win, macOS, Linux | |
@@ -44,10 +44,11 @@ Clients that can be used on your smartphone:
 
 | Client | Notes |
 | --- | --- |
-| [Fado](https://iberia.jdai.pt/fado/fado.html) | [Google Play](https://play.google.com/store/apps/details?id=pt.jdai.fado&pli=1) |
-| [MUDBasher](https://mud.kingfrat.com/) | [Apple Store](https://apps.apple.com/us/app/mudbasher/id6755510450) |
+| [Fado](https://iberia.jdai.pt/fado/fado.html) | Android, [Google Play listing](https://play.google.com/store/apps/details?id=pt.jdai.fado&pli=1) |
+| [MUDBasher](https://mud.kingfrat.com/) | iOS, [App Store listing](https://apps.apple.com/us/app/mudbasher/id6755510450) |
+| [MudForge](https://mudforge.org/) | iOS, [App Store listing](https://apps.apple.com/us/app/mudforge/id6758458444) |
 | [MUDlark](https://testflight.apple.com/join/w8BUhwcQ) | iOS, currently in open beta |
-| [MUDMonster](https://apps.apple.com/us/app/mudmonster-mud-client/id6762086513) | iOS |
+| MUDMonster | iOS, [App Store listing](https://apps.apple.com/us/app/mudmonster-mud-client/id6762086513) |
 
 ## On GitHub
 

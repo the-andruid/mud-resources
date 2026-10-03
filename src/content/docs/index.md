@@ -17,7 +17,7 @@ Resources for playing and creating text-based games, including multi-user (MU*) 
 Available from the left-side nav menu:
 
 - **Playing MU*s**:
-  - [Getting Started](/playing/guides/): Beginner's guides and community links
+  - [Getting Started](/playing/guides/): Beginner's guides and links to helpful communities
   - [Finding a Game](/playing/directories/): Game directories and stats pages
   - [MU* Clients](/playing/clients/): Downloadable, browser, and mobile phone clients
 - **Developing MU*s**: 
@@ -30,11 +30,11 @@ Available from the left-side nav menu:
   - [World Building](/building/craft/): Resources for building text worlds
   - [Marketing & Retention](/building/marketing/): Tips for attracting and retaining players
   - [Recommended Reading](/building/reading/): Community picks
-- **[MU* Archives](/archives/)**: Classic books, magazines, and developer writings from and about MUD history
+- **[MU* Archives](/archives/)**: Books, magazines, videos, and essays from and about MUD history
 
 ### Also here
 
-Resources for related families of single-player and BBS-style text games:
+Resources for related families of IF and BBS-style text games:
 
 - **[Interactive Fiction](/interactive-fiction/)**: Resources for single-player text games, such as parser and hypertext IF
 - **[BBS Door Games](/bbs-doors/)**: Resources for the multiplayer text games that ran on bulletin board systems
@@ -49,7 +49,7 @@ Additions and corrections from the community are welcome! Feel free to use the [
 
 ### What is this site?
 
-A free collection of resources for playing and creating text-based games. It began with multi-user dungeons (MUDs) and has grown to cover related text-game traditions too, including [Interactive Fiction](/interactive-fiction/) and [BBS Door Games](/bbs-doors/).
+A free collection of resources for playing and creating text-based games. It began with multi-user dungeons (MUDs) and has grown to cover related text-game traditions too, including [Interactive Fiction](/interactive-fiction/) and [BBS Door Games](/bbs-doors/), for those who might be interested.
 
 ### Who maintains it?
 
@@ -69,8 +69,8 @@ Yes. Everything here points to publicly available sources (public repos, directo
 
 ### Is everything here current?
 
-This is an evolving, community-maintained list, so links do occasionally break or point somewhere unexpected when a site moves or shuts down. If you spot a dead or incorrect link, please flag it via the form or GitHub.
+Links can occasionally break or point somewhere unexpected when a site moves or becomes unavailable. If you spot a dead or broken link, please let me know.
 
 ### How does this relate to Writing Games?
 
-This is the resource directory companion to [Writing Games](https://writing-games.org/). Writing Games is the main site; this is where its links and references live.
+This site is the resource directory companion to [Writing Games](https://writing-games.org/).

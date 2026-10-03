@@ -14,7 +14,9 @@ Tools and tips for making multi-user (MU*) games more accessible.
 
 - [AudioGames.net](https://audiogames.net/) - Forums and news for blind and visually impaired gamers, including a MUD-playing community
 
-## Lessons from real games
+## Tips for developers
+
+Tips and advice from players and game staff:
 
 - [Tips from Niamh](https://writing-games.org/accessibility-in-alter-epoch-mu/) (Alter Epoch)
 - [Tips from Klor](https://writing-games.org/accessibility-improvements-in-lotj-mud/) (Legends of the Jedi)
