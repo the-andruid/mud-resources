@@ -3,7 +3,7 @@ title: Discovered & Experimental
 description: Early-stage, MUD-related projects found in the wild. May contain experiments and works-in-progress.
 ---
 
-Recently discovered projects that may be of interest but don't yet have a history of sustained development.
+Recently discovered projects that may be of interest but don't yet have a history of sustained development. These projects may be experimental or early WIPs. The repos are regularly and programmatically checked for activity, and the descriptions largely come from the GitHub desc or README of each one. After a time, if they show sustained development, they are automatically moved to other relevant pages on this site.
 
 ## Watchlist
 
