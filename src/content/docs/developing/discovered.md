@@ -9,7 +9,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
-| [Arthmoor / I3-Router](https://github.com/Arthmoor/I3-Router) | Tool | 2026-07 | A standalone Intermud-3 router; no LPMud library or driver required |
 | [BieXiang6 / mud-agent](https://github.com/BieXiang6/mud-agent) | Client | 2026-08 | Cross-platform client for Chinese MUD games with a built-in AI agent; not a generic telnet client |
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Engine | 2026-07 | A MUD engine written in Rust |
 | [DaftPun / odin_mud](https://github.com/DaftPun/odin_mud) | Server | 2026-08 | A simple MUD server written in the Odin programming language |
@@ -52,7 +51,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [taranion / libmxp](https://github.com/taranion/libmxp) | Library | 2026-08 | Java library implementing the MUD eXtension Protocol (MXP) |
 | [tehmud](https://github.com/craigske/tehmud) | Docs | 2026-08 | MUD for phones where an on-device model generates each player's prose; design phase, no code yet |
 | [vibe-mud](https://github.com/Dolacone/vibe-mud) | Game | 2026-09 | Multiplayer text world where every action costs time and energy |
-| [WickedMediaSolutions / EvenniaAtlas](https://github.com/WickedMediaSolutions/EvenniaAtlas) | Tool | 2026-09 | Windows desktop visual map editor for building Evennia MUD areas |
 | [wmd](https://github.com/wand-lang/wmd) | Server | 2026-09 | MudOS-inspired user-programmable MUD written entirely in the Wand programming language |
 | [yak0da / MUD-game](https://github.com/yak0da/MUD-game) | Game | 2026-09 | Multiplayer text MUD in Python on a 10x10 toroidal grid; place cowsay monsters, fight with weapons; README in Russian |
 | [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Engine | 2026-07 | Early-stage Chinese-language MUD engine; at 0.1.0 only the version-check command works |
@@ -65,6 +63,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
 | [aardwolf-plugins](https://github.com/SeanStoves/aardwolf-plugins) | Plugin | 2026-07 | MUSHclient plugins for Aardwolf |
+| [Azimn / frankenstein-village](https://github.com/Azimn/frankenstein-village) | Game | 2026-10 | Design workspace for a persistent text world (MUD) for mixed AI and human players, built on Evennia; early design stage |
 | [burner](https://github.com/jbosse/burner) | Game | 2026-07 | A mobile-first Phoenix LiveView MUD about superheroes in Midtown Manhattan |
 | [ccubed / CozyMud](https://github.com/ccubed/CozyMud) | Game | 2026-07 | A MUD built on the GoMud engine, focused on stories rather than combat and levels |
 | [Desedaft-Dev / Triad3ds](https://github.com/Desedaft-Dev/Triad3ds) | Client | 2026-08 | A Nintendo 3DS homebrew telnet client for TriadCity MUD |
@@ -83,7 +82,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [mudlet-packages](https://github.com/Ailoman/mudlet-packages) | Plugin | 2026-08 | Mudlet package collection for Icesus MUD |
 | [Nindomud](https://github.com/Biran1988/Nindomud) | Server | 2026-09 | Naruto-inspired multiplayer text RPG in Python with SMAUG-style builder commands and jutsu-based combat |
 | [Rakurai / legacy-evennia](https://github.com/Rakurai/legacy-evennia) | Game | 2026-08 | A reimagining of the Legacy MUD, built on Evennia |
-| [Rites-of-Passage-The-Keystone](https://github.com/WickedMediaSolutions/Rites-of-Passage-The-Keystone) | Server | 2026-09 | Server codebase for the MUD Rites of Passage: The Keystone, built on Evennia |
 | [rparrett / mudmud-test-mud](https://github.com/rparrett/mudmud-test-mud) | Tool | 2026-08 | Ephemeral Python MUD server for testing how a client handles telnet, including malformed input |
 | [runeaardwolf](https://github.com/rwagner76/runeaardwolf) | Plugin | 2026-07 | Aardwolf plugins for the Rune MUD client; a few functions with incomplete conversion |
 | [SeanStoves / aardkit](https://github.com/SeanStoves/aardkit) | Plugin | 2026-08 | Mudlet modules for Aardwolf |
@@ -93,6 +91,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [Solvely-Colin / Aardwolf-Mud](https://github.com/Solvely-Colin/Aardwolf-Mud) | Plugin | 2026-08 | MUSHclient and MudForge plugins for Aardwolf |
 | [Summer-MUD](https://github.com/MayC1337/Summer-MUD) | Game | 2026-08 | Single-player MUD about a Chinese student's final month before the college entrance exam; a C++ university course project |
 | [SwiftZer0 / AardForge](https://github.com/SwiftZer0/AardForge) | Plugin | 2026-08 | MudForge plugins for Aardwolf |
+| [The-Keystone](https://github.com/WickedMediaSolutions/The-Keystone) | Server | 2026-09 | Server codebase for the MUD Rites of Passage: The Keystone, built on Evennia |
 | [TheBigMudowski](https://github.com/oldirtdog/TheBigMudowski) | Game | 2026-09 | Telnet MUD themed around The Big Lebowski; pick a class (The Dude, Walter, Donny) and walk a small text world |
 | [ThresholdOps / noesis-tinymux](https://github.com/ThresholdOps/noesis-tinymux) | Tool | 2026-07 | Adapter translating TinyMUX softcode event records into NOESIS telemetry; pre-implementation |
 | [V-Sekai-fire / crucible-rfd](https://github.com/V-Sekai-fire/crucible-rfd) | Docs | 2026-07 | RFDs (design proposals) for Crucible, a planned MUD with deterministic NPCs and an LLM-capable evaluation mode |
