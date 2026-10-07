@@ -22,12 +22,14 @@ Miscellaneous tools useful for MU* development:
 
 - [codemirror-lambdamoo](https://github.com/kruton/codemirror-lambdamoo) - CodeMirror language support for LambdaMOO
 - [Eclipse](https://github.com/LionOps/Eclipse) - Proxy Server SDK for MUD systems (Elixir)
+- [evennia-ai-memory](https://github.com/FullCircleMUD/evennia-ai-memory) - Django app adding embedding-backed lore and per-NPC interaction memory for LLM-driven NPCs in Evennia (Python)
 - [evennia-archive](https://github.com/FullCircleMUD/evennia-archive) - Archives player accounts and characters to a separate database so an Evennia world can be rebuilt from source without losing player data (Python)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
 - [evennia-llm-service](https://github.com/FullCircleMUD/evennia-llm-service) - Library for calling LLM providers from Evennia games (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
 - [evennia-scaling](https://github.com/FullCircleMUD/evennia-scaling) - Library to move a character between independent Evennia instances that share nothing, each with its own database; early stage (Python)
 - [lambdamoo-code-mode](https://github.com/kruton/lambdamoo-code-mode) - Emacs major mode for editing LambdaMOO verb code
+- [MarkupString](https://github.com/SharpMUSH/MarkupString) - Library for immutable styled text that renders one value to ANSI, HTML, Pueblo, MXP, BBCode, or plain text (C#)
 - [moo-lsp-rs](https://github.com/kruton/moo-lsp-rs) - Language server for LambdaMOO
 - [MUDBOX](https://mudbox.frenzykitty.workers.dev/) - MUD mapping and dialog tool
 - [mudclient-test-server](https://github.com/Cryosphere-MUD/mudclient-test-server) - Menu-based test server for exercising MUD client protocol corner cases (Python)
