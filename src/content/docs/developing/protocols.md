@@ -9,6 +9,7 @@ Information on protocols and standards used by developers, plus some useful tool
 
 Documentation for MU* protocols like GMCP, MSSP, MCP, and others:
 
+- [ANSI avatars over Intermud-2](https://midgardmud.de/intermud/ansi.html#en) - Midgard MUD's documentation of its ANSI avatar query extension for Intermud-2
 - [Last Outpost protocol archive](https://www.last-outpost.com/LO/protocols/) - Resource for MUD devs implementing protocols
 - [Mudlet supported protocols](https://wiki.mudlet.org/w/Manual:Supported_Protocols) - Mudlet's documentation for the protocols it implements
 - [MUDhalla protocol documentation](https://tintin.mudhalla.net/protocols/gmcp/) - Info on GMCP, MSSP, and other protocols
