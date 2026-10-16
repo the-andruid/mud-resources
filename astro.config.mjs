@@ -77,6 +77,7 @@ export default defineConfig({
 						{ label: 'Protocols', slug: 'developing/protocols' },
 						{ label: 'Newly Discovered', slug: 'developing/discovered' },
 						{ label: 'Hosting Services', slug: 'developing/hosting' },
+						{ label: 'Game-Specific Dev Tools', slug: 'developing/game-specific' },
 					],
 				},
 				{
@@ -85,6 +86,7 @@ export default defineConfig({
 						{ label: 'World Building', slug: 'building/craft' },
 						{ label: 'Marketing & Retention', slug: 'building/marketing' },
 						{ label: 'Recommended Reading', slug: 'building/reading' },
+						{ label: 'Game-Specific Builder Tools', slug: 'building/game-specific' },
 					],
 				},
 				{ label: 'MU* Archives', slug: 'archives' },

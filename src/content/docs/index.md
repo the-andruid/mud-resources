@@ -26,10 +26,12 @@ Available from the left-side nav menu:
   - [Protocols & Tools](/developing/protocols/): Protocols and standards, plus dev tools
   - [Newly Discovered](/developing/discovered/): Recently found and added repos
   - [Hosting Services](/developing/hosting/): Ideas for where to host your project
+  - [Game-Specific Dev Tools](/developing/game-specific/): Dev tools, plugins, and servers for specific games
 - **Building & Marketing**:
   - [World Building](/building/craft/): Resources for building text worlds
   - [Marketing & Retention](/building/marketing/): Tips for attracting and retaining players
   - [Recommended Reading](/building/reading/): Community picks
+  - [Game-Specific Builder Tools](/building/game-specific/): Builder tools and references for building specific games
 - **[MU* Archives](/archives/)**: Books, magazines, videos, and essays from and about MUD history
 
 ### Also here
@@ -57,7 +59,7 @@ It's maintained by [Andruid](https://writing-games.org/author/andruid/) as part 
 
 ### How is the site organized?
 
-Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (accessibility, codebases, protocols, newly discovered finds, hosting), and **Building & Marketing** (world building, marketing, reading). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
+Resources are grouped by what you're trying to do: **Playing** (getting started, finding a game, clients), **Developing** (accessibility, codebases, protocols, newly discovered finds, hosting, game-specific dev tools), and **Building & Marketing** (world building, marketing, reading, game-specific builder tools). Separate pages cover [Archives](/archives/), [Interactive Fiction](/interactive-fiction/), and [BBS Door Games](/bbs-doors/). If you're new, [Getting Started](/playing/guides/) is the place to begin.
 
 ### How do I suggest a resource or report a problem?
 

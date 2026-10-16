@@ -26,6 +26,8 @@ Miscellaneous tools useful for MU* development:
 - [evennia-ai-memory](https://github.com/FullCircleMUD/evennia-ai-memory) - Django app adding embedding-backed lore and per-NPC interaction memory for LLM-driven NPCs in Evennia (Python)
 - [evennia-archive](https://github.com/FullCircleMUD/evennia-archive) - Archives player accounts and characters to a separate database so an Evennia world can be rebuilt from source without losing player data (Python)
 - [evennia-contribs-staging](https://github.com/an0n-b1nary/evennia-contribs-staging) - Staging repo for contributed extensions to Evennia, the open-source MU* framework (Python)
+- [evennia-effects-conditions](https://github.com/FullCircleMUD/evennia-effects-conditions) - Conditions and timed effects library for Evennia (Python)
+- [evennia-equipment](https://github.com/FullCircleMUD/evennia-equipment) - Equipment slots and carrying weight library for Evennia; early stage (Python)
 - [evennia-llm-service](https://github.com/FullCircleMUD/evennia-llm-service) - Library for calling LLM providers from Evennia games (Python)
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
 - [evennia-scaling](https://github.com/FullCircleMUD/evennia-scaling) - Library to move a character between independent Evennia instances that share nothing, each with its own database; early stage (Python)

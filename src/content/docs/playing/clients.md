@@ -12,6 +12,7 @@ Clients you can download to your computer:
 | Client | OS | Notes |
 | --- | --- | --- |
 | [Atlantis](https://www.riverdark.net/atlantis/) | macOS | |
+| [Atlas MUD Client](https://github.com/NSCx/atlas-mud-downloads) | Win | Executables hosted on GitHub |
 | [AxMUD](https://axmud.sourceforge.io/) | Win, Linux | Includes a screen reader version/config |
 | [KildClient](https://kildclient.org) | Win, Linux | GTK-based client with a built-in Perl interpreter and automapper |
 | [Mallard](https://mallard.vnsf.xyz) | macOS, Win, Linux | Includes a plugin marketplace with a permission system, input autocompletion, and full-text log search |

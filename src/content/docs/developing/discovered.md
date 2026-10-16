@@ -12,7 +12,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [BieXiang6 / mud-agent](https://github.com/BieXiang6/mud-agent) | Client | 2026-08 | Cross-platform client for Chinese MUD games with a built-in AI agent; not a generic telnet client |
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Engine | 2026-07 | A MUD engine written in Rust |
 | [DaftPun / odin_mud](https://github.com/DaftPun/odin_mud) | Server | 2026-08 | A simple MUD server written in the Odin programming language |
-| [evennia-effects-conditions](https://github.com/FullCircleMUD/evennia-effects-conditions) | Library | 2026-09 | Conditions and timed effects library for Evennia |
+| [davidrudder23 / mud-engine](https://github.com/davidrudder23/mud-engine) | Engine | 2026-10 | MUD engine written in Go with Lua scripting for NPCs and items |
 | [evennia-environment](https://github.com/FullCircleMUD/evennia-environment) | Library | 2026-09 | Terrain and weather library for Evennia; feature complete but untried against a real game |
 | [evennia-portal-multiplex](https://github.com/FullCircleMUD/evennia-portal-multiplex) | Library | 2026-09 | Lets multiple Evennia servers share one Portal, moving a player session between them without dropping the connection; early stage |
 | [ex_mush](https://github.com/wisq/ex_mush) | Server | 2026-07 | A rewrite of a MUSH server in Elixir |
@@ -20,7 +20,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [fluffos-vscode](https://github.com/fluffos/fluffos-vscode) | Tool | 2026-07 | VS Code extension for LPC, backed by the FluffOS compiler |
 | [FullCircleMUD / evennia-calendar](https://github.com/FullCircleMUD/evennia-calendar) | Library | 2026-09 | Calendar library for Evennia turning game seconds into year, month, week, day, season, watch, hour and minute via signals |
 | [FullCircleMUD / evennia-database-cascade](https://github.com/FullCircleMUD/evennia-database-cascade) | Library | 2026-09 | Evennia library that resolves each app's database via environment variables; unpublished and no consumer game runs it yet |
-| [FullCircleMUD / evennia-equipment](https://github.com/FullCircleMUD/evennia-equipment) | Library | 2026-09 | Evennia library for equipment slots and carrying weight; early, mechanism works but commands not yet written |
 | [FullCircleMUD / evennia-message-bus](https://github.com/FullCircleMUD/evennia-message-bus) | Library | 2026-08 | Message bus letting separate Evennia game servers talk to each other |
 | [FullCircleMUD / evennia-survival](https://github.com/FullCircleMUD/evennia-survival) | Library | 2026-09 | Staged hunger and thirst meter library for Evennia, ticked by two clocks; working but untried against a real game |
 | [GwenNelson / BlingMUD](https://github.com/GwenNelson/BlingMUD) | Engine | 2026-07 | A telnet-only Python MUD engine built for small communities rather than scale |
@@ -28,13 +27,11 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [Indr1d-C0ld / CthulhuMud](https://github.com/Indr1d-C0ld/CthulhuMud) | Game | 2026-09 | Faithful Italian port of the historic Lovecraftian MUD CthulhuMUD, rebuilt on Evennia without copying original code or text |
 | [latticeechomudgame](https://github.com/tiwenraj/latticeechomudgame) | Game | 2026-09 | Original terminal-based sci-fi cyberpunk MUD with single-player practice and multiplayer server modes |
 | [maadone74 / RMUDOS](https://github.com/maadone74/RMUDOS) | Driver | 2026-08 | Rust LPC mud driver inspired by MudOS and FluffOS; a clean-room redesign rather than a port |
-| [MacMUSH](https://github.com/robduf/MacMUSH) | Client | 2026-07 | Native macOS MUD client inspired by MUSHclient, with Lua 5.4 scripting |
 | [MacMUSH-Swift](https://github.com/robduf/MacMUSH-Swift) | Client | 2026-07 | A native macOS MUD client written in Swift; early MVP |
 | [Mercciii / mud](https://github.com/Mercciii/mud) | Server | 2026-10 | Full-featured fork of 中华英雄MUD mudlib for FluffOS v2017 with a live game; the bug-free base version is oiuv/mud |
 | [Michael-Garibaldi / Muddel](https://github.com/Michael-Garibaldi/Muddel) | Client | 2026-08 | Emacs MUD client |
 | [model-moo](https://github.com/cnicholson-dev/model-moo) | Game | 2026-08 | A MOO-style world built and inhabited autonomously by a local Ollama model |
 | [MUD (cronix1000)](https://github.com/cronix1000/MUD) | Server | 2026-09 | Multi-process MUD monorepo with a C++ ECS server, Python WebSocket gateway, and Nuxt browser client and admin UI |
-| [MUD-2D](https://github.com/NSKrlsn/MUD-2D) | Engine | 2026-07 | A generic 2D MUD implementation |
 | [NexMUD-client](https://github.com/ymek/NexMUD-client) | Client | 2026-09 | Avalonia-based MUD client in C#; recent releases focus heavily on transcript typography and terminal grid rendering |
 | [pepper-zamora / moolin](https://github.com/pepper-zamora/moolin) | Client | 2026-10 | Cross-platform Electron desktop client for MOOs, MUSHes, MUCKs and MUDs, written entirely by AI (Claude) to its author's tastes |
 | [PICO-MUD](https://github.com/HendrikPetertje/PICO-MUD) | Server | 2026-09 | LambdaMOO-like text MUD server running natively on a Raspberry Pi Pico 2 W, hosting its own Wi-Fi hotspot and telnet server |
