@@ -13,6 +13,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Engine | 2026-07 | A MUD engine written in Rust |
 | [DaftPun / odin_mud](https://github.com/DaftPun/odin_mud) | Server | 2026-08 | A simple MUD server written in the Odin programming language |
 | [davidrudder23 / mud-engine](https://github.com/davidrudder23/mud-engine) | Engine | 2026-10 | MUD engine written in Go with Lua scripting for NPCs and items |
+| [ellethee / pachimudeditor](https://github.com/ellethee/pachimudeditor) | Tool | 2026-10 | Web editor for pachimud worlds and, via adapters, other MUDs (basedmud, dikumod); docs in Italian |
 | [evennia-environment](https://github.com/FullCircleMUD/evennia-environment) | Library | 2026-09 | Terrain and weather library for Evennia; feature complete but untried against a real game |
 | [evennia-portal-multiplex](https://github.com/FullCircleMUD/evennia-portal-multiplex) | Library | 2026-09 | Lets multiple Evennia servers share one Portal, moving a player session between them without dropping the connection; early stage |
 | [ex_mush](https://github.com/wisq/ex_mush) | Server | 2026-07 | A rewrite of a MUSH server in Elixir |
@@ -50,7 +51,6 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [vibe-mud](https://github.com/Dolacone/vibe-mud) | Game | 2026-09 | Multiplayer text world where every action costs time and energy |
 | [wmd](https://github.com/wand-lang/wmd) | Server | 2026-09 | MudOS-inspired user-programmable MUD written entirely in the Wand programming language |
 | [yak0da / MUD-game](https://github.com/yak0da/MUD-game) | Game | 2026-09 | Multiplayer text MUD in Python on a 10x10 toroidal grid; place cowsay monsters, fight with weapons; README in Russian |
-| [yanxu-mud](https://github.com/LiuXiu233/yanxu-mud) | Engine | 2026-07 | Early-stage Chinese-language MUD engine; at 0.1.0 only the version-check command works |
 | [yimogod / MudCode](https://github.com/yimogod/MudCode) | Client | 2026-09 | Cross-platform UI tool for MUD games, for Windows and Android |
 | [yippieyio / interruptingcow](https://github.com/yippieyio/interruptingcow) | Tool | 2026-09 | Design-phase plan for a daemon that holds MUSH/MUCK/MOO connections open with a PWA web client; no running software yet |
 | [zefir6 / mush-gateway](https://github.com/zefir6/mush-gateway) | Tool | 2026-07 | A persistent proxy/bouncer for PennMUSH sessions |
