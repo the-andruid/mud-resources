@@ -65,6 +65,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [KATMud](https://github.com/indesignkat/KATMud) | Python and SQLite client for the 3Scapes MUD |
 | [KMuddy](https://github.com/KDE/kmuddy) | |
 | [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
+| [Muddel](https://github.com/Michael-Garibaldi/Muddel) | Emacs MUD client |
 | [Mudlet](https://github.com/Mudlet/Mudlet) | |
 | [mudoxi](https://github.com/Discordanian/mudoxi) | Terminal MUD client written in Rust |
 | [Mudpie](https://github.com/aaron-gh/mudpie-releases/releases) | Android client, apk on GitHub |

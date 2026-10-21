@@ -9,6 +9,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 
 | Project | Type | Found | Description |
 | --- | --- | --- | --- |
+| [Bekkenes / tintito](https://github.com/Bekkenes/tintito) | Client | 2026-10 | Pocket-sized MUD client: an ANSI terminal in a PWA plus a small Bun bridge for raw telnet |
 | [BieXiang6 / mud-agent](https://github.com/BieXiang6/mud-agent) | Client | 2026-08 | Cross-platform client for Chinese MUD games with a built-in AI agent; not a generic telnet client |
 | [butterflyskies / catena](https://github.com/butterflyskies/catena) | Engine | 2026-07 | A MUD engine written in Rust |
 | [DaftPun / odin_mud](https://github.com/DaftPun/odin_mud) | Server | 2026-08 | A simple MUD server written in the Odin programming language |
@@ -26,14 +27,13 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [GwenNelson / BlingMUD](https://github.com/GwenNelson/BlingMUD) | Engine | 2026-07 | A telnet-only Python MUD engine built for small communities rather than scale |
 | [hollowmere](https://github.com/Destynyle/hollowmere) | Server | 2026-09 | Multiplayer text adventure speaking RFC 42TAP, production rewrite of a 42 school project with browser WebSocket client and raw TCP for terminal players |
 | [Indr1d-C0ld / CthulhuMud](https://github.com/Indr1d-C0ld/CthulhuMud) | Game | 2026-09 | Faithful Italian port of the historic Lovecraftian MUD CthulhuMUD, rebuilt on Evennia without copying original code or text |
-| [latticeechomudgame](https://github.com/tiwenraj/latticeechomudgame) | Game | 2026-09 | Original terminal-based sci-fi cyberpunk MUD with single-player practice and multiplayer server modes |
 | [maadone74 / RMUDOS](https://github.com/maadone74/RMUDOS) | Driver | 2026-08 | Rust LPC mud driver inspired by MudOS and FluffOS; a clean-room redesign rather than a port |
 | [MacMUSH-Swift](https://github.com/robduf/MacMUSH-Swift) | Client | 2026-07 | A native macOS MUD client written in Swift; early MVP |
 | [Mercciii / mud](https://github.com/Mercciii/mud) | Server | 2026-10 | Full-featured fork of 中华英雄MUD mudlib for FluffOS v2017 with a live game; the bug-free base version is oiuv/mud |
-| [Michael-Garibaldi / Muddel](https://github.com/Michael-Garibaldi/Muddel) | Client | 2026-08 | Emacs MUD client |
 | [model-moo](https://github.com/cnicholson-dev/model-moo) | Game | 2026-08 | A MOO-style world built and inhabited autonomously by a local Ollama model |
 | [MUD (cronix1000)](https://github.com/cronix1000/MUD) | Server | 2026-09 | Multi-process MUD monorepo with a C++ ECS server, Python WebSocket gateway, and Nuxt browser client and admin UI |
 | [NexMUD-client](https://github.com/ymek/NexMUD-client) | Client | 2026-09 | Avalonia-based MUD client in C#; recent releases focus heavily on transcript typography and terminal grid rendering |
+| [noctuau / Lantern](https://github.com/noctuau/Lantern) | Client | 2026-10 | Windows desktop MUD/MUSH client for roleplay games, a fresh take on MUSHclient; built mainly for Haven, works with any telnet game |
 | [pepper-zamora / moolin](https://github.com/pepper-zamora/moolin) | Client | 2026-10 | Cross-platform Electron desktop client for MOOs, MUSHes, MUCKs and MUDs, written entirely by AI (Claude) to its author's tastes |
 | [PICO-MUD](https://github.com/HendrikPetertje/PICO-MUD) | Server | 2026-09 | LambdaMOO-like text MUD server running natively on a Raspberry Pi Pico 2 W, hosting its own Wi-Fi hotspot and telnet server |
 | [PixelMUD (Keranik)](https://github.com/Keranik/PixelMUD) | Server | 2026-09 | C# .NET 8 port of ROM 2.4 / QuickMUD; ships stock QuickMUD areas so a fresh clone boots, and classic telnet clients still connect |

@@ -41,6 +41,9 @@ Dev tools and resources for specific multi-user (MU*) games. Like the [watchlist
 | [TheBigMudowski](https://github.com/oldirtdog/TheBigMudowski) | Game | 2026-09 | Telnet MUD themed around The Big Lebowski; pick a class (The Dude, Walter, Donny) and walk a small text world |
 | [V-Sekai-archive / crucible-rfd](https://github.com/V-Sekai-archive/crucible-rfd) | Docs | 2026-07 | RFDs (design proposals) for Crucible, a planned MUD with deterministic NPCs and an LLM-capable evaluation mode |
 | [v9-Control-for-MudBringer](https://github.com/valkesorcio/v9-Control-for-MudBringer) | Plugin | 2026-08 | Script pack for the MudBringer client for coordinating multiple game sessions |
+| [volundmush / convergence](https://github.com/volundmush/convergence) | Game | 2026-10 | TypeScript/Deno MUSH server with TinyMUX-style softcode; the UrsaMU engine monorepo, not a playable game |
 | [wengweng0312 / altar-aeon-mush-client-translation](https://github.com/wengweng0312/altar-aeon-mush-client-translation) | Plugin | 2026-10 | MUSHclient plugin that translates Alter Aeon output into Chinese for NVDA; still being organized for safe release, no auto-updater yet |
 | [WuxiaGo](https://github.com/ccubed/WuxiaGo) | Game | 2026-07 | A wuxia-themed MUD server built on the GoMud engine |
+| [Xenochi-vibe / typesekai-mudlet](https://github.com/Xenochi-vibe/typesekai-mudlet) | Plugin | 2026-10 | Mudlet mapper package with the whole TypeSekai MUD map, kept centred on you via GMCP |
+| [xeromus79 / Yodas-Harvesting-System](https://github.com/xeromus79/Yodas-Harvesting-System) | Plugin | 2026-10 | Manual and optional automatic harvesting reflex package for Achaea's Nexus client |
 | [zayarocks / zayaville](https://github.com/zayarocks/zayaville) | Game | 2026-09 | Practice/tutorial MUD for LPC and FluffOS |
