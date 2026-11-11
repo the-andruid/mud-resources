@@ -34,6 +34,7 @@ Miscellaneous tools useful for MU* development:
 - [evennia-mob-spawner](https://github.com/FullCircleMUD/evennia-mob-spawner) - Declarative YAML-driven mob spawn system for Evennia (Python)
 - [evennia-scaling](https://github.com/FullCircleMUD/evennia-scaling) - Library to move a character between independent Evennia instances that share nothing, each with its own database; early stage (Python)
 - [lambdamoo-code-mode](https://github.com/kruton/lambdamoo-code-mode) - Emacs major mode for editing LambdaMOO verb code
+- [lpcvm](https://github.com/taedlar/lpcvm) - Sandboxed virtual machine for an LPC-like language, built on LPMud's blueprints and clones model (C++)
 - [MarkupString](https://github.com/SharpMUSH/MarkupString) - Library for immutable styled text that renders one value to ANSI, HTML, Pueblo, MXP, BBCode, or plain text (C#)
 - [moo-lsp-rs](https://github.com/kruton/moo-lsp-rs) - Language server for LambdaMOO
 - [MUDBOX](https://mudbox.frenzykitty.workers.dev/) - MUD mapping and dialog tool

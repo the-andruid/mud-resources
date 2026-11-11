@@ -16,6 +16,7 @@ Find a game to play:
 | [IPTIA BBS/MUD Server List](https://www.ipingthereforeiam.com/bbs/) | Retro directory of BBS and MUD servers worldwide |
 | [Evennia Games Index](http://games.evennia.com) | Index of games built on Evennia engine, which tend to be bespoke |
 | [GameScry](https://game-scry.online/browse/mud/?ord=popular) | Indie game catalog with filters (genre, engine, language); not MUD-only |
+| [GMUD.org](https://gmud.org) | MUD game directory |
 | [Grapevine](https://grapevine.haus/) | Friendly MUD directory with the basics |
 | [LociTerm](https://lociterm.com/) | Browser-based MUD client that also lists games by recent activity |
 | [MOOList](https://moolist.com/) | Lists MOO (MUD, Object-Oriented) games specifically |

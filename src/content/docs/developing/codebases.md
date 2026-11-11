@@ -22,6 +22,7 @@ Various game engines, the primary languages they're written in, and links to rep
 | [CoffeeMUD](https://coffeemud.org/) | Java | [GitHub](https://github.com/bozimmerman/CoffeeMud) |
 | [CoolMUD](https://bartle.mudinstitute.org/codebases/codebase/31) | C | |
 | [CopperMUD](https://bartle.mudinstitute.org/codebases/codebase/17) | C | Merc precursor |
+| [davidrudder23/mud-engine](https://github.com/davidrudder23/mud-engine) | Go | Lua scripting for NPCs and items |
 | [DikuMUD](https://dikumud.com/) | C | [GitHub](https://github.com/Seifert69/DikuMUD) |
 | [DikuMUD3](https://wiki.dikumud.com/wiki/DikuMUD) | C++ | [GitHub](https://github.com/Seifert69/DikuMUD3) |
 | [DGD](https://bartle.mudinstitute.org/codebases/codebase/19) | C | Dworkin's Game Driver, in-game scripting in LPC |

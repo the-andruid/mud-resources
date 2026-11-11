@@ -64,6 +64,7 @@ Available on GitHub in various forms (not recommended for beginners):
 | [Chrysalis](https://github.com/Cryosphere-MUD/chrysalis) | Browser-based, read about it in [Morwen's interview](https://writing-games.org/cryosphere-satirical-sci-fi-mud/) |
 | [KATMud](https://github.com/indesignkat/KATMud) | Python and SQLite client for the 3Scapes MUD |
 | [KMuddy](https://github.com/KDE/kmuddy) | |
+| [Moolin](https://github.com/pepper-zamora/moolin) | Cross-platform Electron desktop client for MOOs, MUSHes, MUCKs, and MUDs (TypeScript); written entirely by AI (Claude) |
 | [mudblood](https://github.com/talanis85/mudblood) | Haskell MUD client |
 | [Muddel](https://github.com/Michael-Garibaldi/Muddel) | Emacs MUD client |
 | [Mudlet](https://github.com/Mudlet/Mudlet) | |
