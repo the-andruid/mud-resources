@@ -21,7 +21,6 @@ Dev tools and resources for specific multi-user (MU*) games. Like the [watchlist
 | [hilorioze / mud](https://github.com/hilorioze/mud) | Game | 2026-10 | Small multiplayer text game over telnet about relighting a dark lighthouse on Gull Rock; the island resets after each round |
 | [hollow-grid-c](https://github.com/skyphusion-labs/hollow-grid-c) | Server | 2026-07 | C world-server node for The Hollow Grid federated MUD network |
 | [Hunter-Meares / rome-the-eternal-city](https://github.com/Hunter-Meares/rome-the-eternal-city) | Game | 2026-10 | Roman roleplay MUD built on Evennia, set at the height of the Roman Empire; in player testing |
-| [Ixliam / wotl-mud](https://github.com/Ixliam/wotl-mud) | Game | 2026-08 | Heavily modified Dawn of Time 1.69r codebase for the MUD Whispers of Times Lost |
 | [joashchee / coupler](https://github.com/joashchee/coupler) | Client | 2026-10 | Dedicated CoffeeMUD client built for blind and visually impaired players; a macOS-first Rust app, in development |
 | [kheppel71 / Eldoria](https://github.com/kheppel71/Eldoria) | Game | 2026-11 | Evennia-based fantasy MUD that reimplements the mechanics of classic Nightmare LPmud |
 | [kruton / lambdamoo-mcp](https://github.com/kruton/lambdamoo-mcp) | Tool | 2026-08 | MCP server giving coding agents semantic search over a LambdaMOO core database |

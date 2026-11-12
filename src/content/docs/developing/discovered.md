@@ -36,6 +36,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [PICO-MUD](https://github.com/HendrikPetertje/PICO-MUD) | Server | 2026-09 | LambdaMOO-like text MUD server running natively on a Raspberry Pi Pico 2 W, hosting its own Wi-Fi hotspot and telnet server |
 | [PixelMUD (Keranik)](https://github.com/Keranik/PixelMUD) | Server | 2026-09 | C# .NET 8 port of ROM 2.4 / QuickMUD; ships stock QuickMUD areas so a fresh clone boots, and classic telnet clients still connect |
 | [pjhwa / yeomyeong](https://github.com/pjhwa/yeomyeong) | Game | 2026-08 | Go text MMO inspired by DikuMUD, with LLM-powered NPCs; early development |
+| [prool / cwg-suntzu](https://github.com/prool/cwg-suntzu) | Server | 2026-11 | CircleMUD 3.1 codebase |
 | [rezalas / mudclarity](https://github.com/rezalas/mudclarity) | Tool | 2026-10 | MUD area file visualization tool written in Odin |
 | [RustMUD](https://github.com/Fiztba/RustMUD) | Server | 2026-09 | Rust rewrite of tbaMUD; keeps the original's commands, OLC, DG Scripts, and area files |
 | [SamMRoberts / solidify-client](https://github.com/SamMRoberts/solidify-client) | Client | 2026-10 | Rust/Tauri desktop MUD client for Windows, Linux, and macOS, with a standalone Rust Telnet and GMCP library; early stage |
