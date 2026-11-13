@@ -25,8 +25,8 @@ Dev tools and resources for specific multi-user (MU*) games. Like the [watchlist
 | [kheppel71 / Eldoria](https://github.com/kheppel71/Eldoria) | Game | 2026-11 | Evennia-based fantasy MUD that reimplements the mechanics of classic Nightmare LPmud |
 | [kruton / lambdamoo-mcp](https://github.com/kruton/lambdamoo-mcp) | Tool | 2026-08 | MCP server giving coding agents semantic search over a LambdaMOO core database |
 | [LuminariMUD / luminariweb](https://github.com/LuminariMUD/luminariweb) | Client | 2026-07 | Browser client for LuminariMUD-compatible games; bridges to telnet and drives its display from MSDP |
-| [marcigaglia / InnsmouthMUD](https://github.com/marcigaglia/InnsmouthMUD) | Game | 2026-08 | Telegram bot running a Lovecraftian horror MUD-style adventure narrated by Claude |
 | [mudlet-packages](https://github.com/Ailoman/mudlet-packages) | Plugin | 2026-08 | Mudlet package collection for Icesus MUD |
+| [MudPilot / MudPilot](https://github.com/MudPilot/MudPilot) | Client | 2026-11 | MegaMUD-style automation client for MajorMUD with MME (MajorMUD Explorer) built in; distributed as a Windows zip from Releases |
 | [narixsu / dragonball-infinite-chaos](https://github.com/narixsu/dragonball-infinite-chaos) | Client | 2026-10 | Desktop MUD client preset to one server, malls-prada.tun.ply.gg:43666, for Dragonball: Infinite Chaos |
 | [nilgirian / Nilgiri-IM-Client](https://github.com/nilgirian/Nilgiri-IM-Client) | Client | 2026-10 | IPhone and iPad client for Nilgiri the Forgotten World; connects through the game's HTTPS IM server, not telnet, with push alerts |
 | [Nindomud](https://github.com/Biran1988/Nindomud) | Server | 2026-09 | Naruto-inspired multiplayer text RPG in Python with SMAUG-style builder commands and jutsu-based combat |
@@ -38,7 +38,6 @@ Dev tools and resources for specific multi-user (MU*) games. Like the [watchlist
 | [skyphusion-labs / hollow-grid-py](https://github.com/skyphusion-labs/hollow-grid-py) | Server | 2026-07 | Python world-server node for The Hollow Grid federated MUD network |
 | [Solvely-Colin / Aardwolf-Mud](https://github.com/Solvely-Colin/Aardwolf-Mud) | Plugin | 2026-08 | MUSHclient and MudForge plugins for Aardwolf |
 | [Summer-MUD](https://github.com/MayC1337/Summer-MUD) | Game | 2026-08 | Single-player MUD about a Chinese student's final month before the college entrance exam; a C++ university course project |
-| [SwiftZer0 / AardForge](https://github.com/SwiftZer0/AardForge) | Plugin | 2026-08 | MudForge plugins for Aardwolf |
 | [The-Keystone](https://github.com/WickedMediaSolutions/The-Keystone) | Server | 2026-09 | Server codebase for the MUD Rites of Passage: The Keystone, built on Evennia |
 | [TheBigMudowski](https://github.com/oldirtdog/TheBigMudowski) | Game | 2026-09 | Telnet MUD themed around The Big Lebowski; pick a class (The Dude, Walter, Donny) and walk a small text world |
 | [turing-lucas / mud-valinor-client-beta](https://github.com/turing-lucas/mud-valinor-client-beta) | Client | 2026-10 | Beta terminal client for the Valinor MUD, built in Python with curses |

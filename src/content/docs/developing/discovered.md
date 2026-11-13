@@ -47,6 +47,7 @@ Recently discovered projects that may be of interest but don't yet have a histor
 | [tehmud](https://github.com/craigske/tehmud) | Docs | 2026-08 | MUD for phones where an on-device model generates each player's prose; design phase, no code yet |
 | [theasciiverse / lera](https://github.com/theasciiverse/lera) | Client | 2026-11 | Terminal MUD client in Rust with a built-in world picker, for Linux, macOS and Windows |
 | [vibe-mud](https://github.com/Dolacone/vibe-mud) | Game | 2026-09 | Multiplayer text world where every action costs time and energy |
+| [Vyttle-LLC / mudling](https://github.com/Vyttle-LLC/mudling) | Client | 2026-11 | Open-source MUD client for macOS, Windows and Linux with telnet, GMCP and MCCP2; syncs settings to a Git repository you own |
 | [WillowMist / Mist](https://github.com/WillowMist/Mist) | Client | 2026-10 | Cross-platform MUD client in Rust with Pueblo markup support and themeable colors, with its own telnet, ANSI, and TinTin++ code |
 | [wmd](https://github.com/wand-lang/wmd) | Server | 2026-09 | MudOS-inspired user-programmable MUD written entirely in the Wand programming language |
 | [yak0da / MUD-game](https://github.com/yak0da/MUD-game) | Game | 2026-09 | Multiplayer text MUD in Python on a 10x10 toroidal grid; place cowsay monsters, fight with weapons; README in Russian |
